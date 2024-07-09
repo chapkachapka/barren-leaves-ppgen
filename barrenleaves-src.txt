@@ -87,7 +87,6 @@ BY THE SAME AUTHOR
 
 
 
-<special>
 .h1
 THOSE||BARREN LEAVES
 .hr w=50%
@@ -95,12 +94,10 @@ THOSE||BARREN LEAVES
 <l>BY ALDOUS HUXLEY</l>
 .sp 4
 
-<special note="Image centered in text">
 .nf c
-NEW <img/><img height="50" width="50" src="https:/\/upload.wikimedia.org/wikipedia/commons/1/10/Wikipedia-W-bold-in-square.svg"/> YORK
+NEW <img height="50" width="50" src="images/gdh-logo.png"/> YORK
 GEORGE H. DORAN COMPANY
 .nf-
-</special>
 
 
 
