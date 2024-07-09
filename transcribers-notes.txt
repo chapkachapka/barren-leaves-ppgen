@@ -1,0 +1,12 @@
+
+.ul
+.it #p. 9:Page_009#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
+.it #p. 78:Page_078#: changed “that” to “than” (that's easier said than done)
+.it #p. 85:Page_085#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
+.it #p. 181:Page_181#: changed “you” to “your” (I've always ... admired your work)
+.it #p. 220:Page_220#: changed “Its” to “It's” (It's 'amusing'--isn't that the word?)
+.it #p. 253:Page_253#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
+.it #p. 309:Page_309#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
+.it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keat)
+.ul-
+
