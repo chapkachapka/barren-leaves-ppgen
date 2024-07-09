@@ -3,7 +3,7 @@
  'Pg002' => {'offset' => '9.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg003' => {'offset' => '13.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg004' => {'offset' => '40.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg005' => {'offset' => '52.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg005' => {'offset' => '55.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg007' => {'offset' => '80.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg009' => {'offset' => '94.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg010' => {'offset' => '127.57', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
