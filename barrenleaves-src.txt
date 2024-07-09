@@ -16835,6 +16835,6 @@ pale sky. Perhaps he had been a fool, thought Calamy.
 But looking at that shining peak, he was somehow
 reassured.
 
-.tb
-
+.sp 2
+.ce
 THE END
