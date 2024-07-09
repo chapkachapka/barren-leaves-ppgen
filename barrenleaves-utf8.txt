@@ -163,16 +163,18 @@ gave small faith. Only the last verse seemed to him--though he would
 have found it difficult to explain why--worthy of serious attention. The
 last verse embodied a piece of specific good advice.
 
-<poemblock> Intanto se vuoi vincere Un bel ternone al Lotto, Giuoca il
-sette e il sedici, Uniti al cinquantotto. </poemblock>
+                      Intanto se vuoi vincere
+                      Un bel ternone al Lotto,
+                      Giuoca il sette e il sedici,
+                      Uniti al cinquantotto.
 
 He read through the verse several times until he had got it by heart;
 then folded up the paper and put it away again. Seven, sixteen and
 fifty-eight--there certainly was something very attractive about those
 numbers.
 
-<poemblock> Giuoca il sette e il sedici Uniti al cinquantotto.
-</poemblock>
+                      Giuoca il sette e il sedici
+                      Uniti al cinquantotto.
 
 He had a very good mind to do as the oracle commanded. It was a charm, a
 spell to bind fate: one couldn't fail to win with those three numbers.
@@ -784,12 +786,12 @@ da Montecatini.
                               CHAPTER III
 
 
-Dinner was served in the Saloon of the Ancestors.
+Dinner was served in the Saloon of the Ancestors.<special>
 
-In Mrs. Aldwinkle's enthusiastic imagination what marvellous symposia
-had been held within those walls--centuries even before they were
-built--what intellectual feasts! Aquinas, here, had confided to an early
-Malaspina his secret doubt on the predicability of rollations, had
+</special>In Mrs. Aldwinkle's enthusiastic imagination what marvellous
+symposia had been held within those walls--centuries even before they
+were built--what intellectual feasts! Aquinas, here, had confided to an
+early Malaspina his secret doubt on the predicability of rollations, had
 twitted the robber marquess, over a goblet of wine, with the feebleness
 of his synderesis. Dante had insisted on the advantages of having a
 Platonic mistress whom one never met and who could, when necessary, be
@@ -2393,8 +2395,8 @@ disgraceful the more there is in you to be enslaved and involved."
 
 "It wasn't Browning's opinion," said Mr. Cardan.
 
-<poemblock> "The woman yonder, there's no use in life But just to obtain
-her." </poemblock>
+               "The woman yonder, there's no use in life
+               But just to obtain her."
 
 "Browning was a fool," said Calamy.
 
@@ -2453,9 +2455,10 @@ Positively, you know, I can do anything and yet remain respectable in my
 own eyes, and in the eyes of others not merely wonderfully decent, but
 even noble.
 
-<poemblock> "Ah, what avail the loaded dice? Ah, what the tubs of wine?
-What every weakness, every vice? Tom Cardan, all were thine.
-</poemblock>
+                    "Ah, what avail the loaded dice?
+                    Ah, what the tubs of wine?
+                    What every weakness, every vice?
+                    Tom Cardan, all were thine.
 
 <noindent>I won't bore you with the rest of this epitaph which I
 composed for myself some little time ago. Suffice to say that I point
@@ -2482,7 +2485,7 @@ discomfort, misery, boredom and remorse. Sometimes," Calamy went on,
 sighing, "I positively regret the time I spent in the army during the
 war. Then, at any rate, there was no question of doing what one liked;
 there was no liberty, no choice. One did what one was told and that was
-all. Now I'm free; I have every op-* *portunity for doing exactly what I
+all. Now I'm free; I have every opportunity for doing exactly what I
 like--and I consistently do what I don't like."
 
 "But do you know exactly what you do like?" asked Mr. Cardan.
@@ -3172,16 +3175,20 @@ wallowed. Lying there on the water, I repeated to myself a copy of
 verses, inspired by reflections like these, which I had written some few
 months before.
 
-<poemblock> The Holy Ghost comes sliding down On Ilford, Golders Green
-and Penge. His hosts infect him as they rot; The victims take their just
-revenge.
+              The Holy Ghost comes sliding down
+              On Ilford, Golders Green and Penge.
+              His hosts infect him as they rot;
+              The victims take their just revenge.
 
-For if of old the sons of squires And livery stable keepers turned To
-flowers and hope, to Greece and God, We in our later age have learned
+              For if of old the sons of squires
+              And livery stable keepers turned
+              To flowers and hope, to Greece and God,
+              We in our later age have learned
 
-That we are native where we walk Through the dim streets of Camden Town.
-But hopeful still through twice-breathed air The Holy Ghost comes
-shining down. </poemblock>
+              That we are native where we walk
+              Through the dim streets of Camden Town.
+              But hopeful still through twice-breathed air
+              The Holy Ghost comes shining down.
 
 I wrote these lines, I remember, one dark afternoon in my office in
 Gog's Court, Fetter Lane. It is in the same office, on an almost
@@ -3325,9 +3332,11 @@ heart of it, the palpitating heart.
 Gog's Court, the navel of reality! Repeating those verses of mine in the
 silence, I intimately felt the truth of it.
 
-<poemblock> For if of old the sons of squires And livery stable keepers
-turned To flowers and hope, to Greece and God, We, in our later age have
-learned That we are native where we walk. </poemblock>
+                For if of old the sons of squires
+                And livery stable keepers turned
+                To flowers and hope, to Greece and God,
+                We, in our later age have learned
+                That we are native where we walk.
 
 My voice boomed out oracularly across the flat sea. Nothing so richly
 increases the significance of a statement as to hear it uttered by one's
@@ -3755,14 +3764,19 @@ knows her place and hopes that the man of the inferior race knows his.
 The servant comes in with a steaming dish of greens. _Crambe
 repetita_--inspiring perfume! Mentally I burst into song.
 
-<poemblock> These like remorse inveterate memories, Being of cabbage,
-are prophetic too Of future feasts, when Mrs. Cloudesley Shove Will
-still recall lamented Cloudesley. <special>Still</special> Among the
-moonlit cedars Philomel Calls back to mind, again, again, The ancient
-pain, the everlasting pain; And still inveterately the haunted air
-Remembers and foretells that roses were Red and to-morrow will again be
-red, But, "Cloudesley, Cloudesley!" Philomel in vain Sobs on the night;
-for Cloudesley Shove is dead.... </poemblock>
+    These like remorse inveterate memories,
+    Being of cabbage, are prophetic too
+    Of future feasts, when Mrs. Cloudesley Shove
+    Will still recall lamented Cloudesley.
+                                            <special>Still</special>
+    Among the moonlit cedars Philomel
+    Calls back to mind, again, again,
+    The ancient pain, the everlasting pain;
+    And still inveterately the haunted air
+    Remembers and foretells that roses were
+    Red and to-morrow will again be red,
+    But, "Cloudesley, Cloudesley!" Philomel in vain
+    Sobs on the night; for Cloudesley Shove is dead....
 
 And in the flesh, as though irresistibly summoned by my incantation,
 Mrs. Cloudesley Shove blackens the doorway with her widowhood.
@@ -4108,9 +4122,14 @@ larks which she still preserves, along with the locks of my pale
 childish hair, the faded photographs, the precocious drawings of railway
 trains and all the other relics of the period.
 
-<poemblock> Oh, lark, how you do fly Right up into the sky. How loud he
-sings And quickly wags his wings. The sun does shine, The weather is
-fine. Father says, Hark, Do you hear the lark? </poemblock>
+                      Oh, lark, how you do fly
+                      Right up into the sky.
+                      How loud he sings
+                      And quickly wags his wings.
+                      The sun does shine,
+                      The weather is fine.
+                      Father says, Hark,
+                      Do you hear the lark?
 
 <noindent>My mother likes that poem better, I believe, than anything I
 have written since. And I daresay that my father, if he had lived, would
@@ -4223,36 +4242,45 @@ bridge of boats between Baiae and Puteoli. By Peter Paul Rubens (b.
 1577: d. 1640)." The poem itself, however, is not very reminiscent of
 the Lake District.
 
-<poemblock> Prow after prow the floating ships Bridge the blue gulph;
-the road is laid. Caesar on a piebald horse Prances with all his
-cavalcade.
+             Prow after prow the floating ships
+             Bridge the blue gulph; the road is laid.
+             Caesar on a piebald horse
+             Prances with all his cavalcade.
 
-Drunk with their own quick blood they go. The waves flash as with seeing
-eyes; The tumbling cliffs mimic their speed, And they have filled the
-vacant skies
+             Drunk with their own quick blood they go.
+             The waves flash as with seeing eyes;
+             The tumbling cliffs mimic their speed,
+             And they have filled the vacant skies
 
-With waltzing Gods and Virtues, set The Sea Winds singing with their
-shout, Made Vesta's temple on the headland Spin like a twinkling
-roundabout.
+             With waltzing Gods and Virtues, set
+             The Sea Winds singing with their shout,
+             Made Vesta's temple on the headland
+             Spin like a twinkling roundabout.
 
-The twined caduceus in his hand, And having golden wings for spurs,
-Young Caesar dressed as God looks on And cheers his jolly mariners;
+             The twined caduceus in his hand,
+             And having golden wings for spurs,
+             Young Caesar dressed as God looks on
+             And cheers his jolly mariners;
 
-Cheers as they heave from off the bridge The trippers from the seaside
-town; Laughs as they bang the bobbing heads And shove them bubbling down
-to drown.
+             Cheers as they heave from off the bridge
+             The trippers from the seaside town;
+             Laughs as they bang the bobbing heads
+             And shove them bubbling down to drown.
 
-There sweeps a spiral whirl of gesture From the allegoric sky: Beauty,
-like conscious lightning, runs Through Jove's ribbed trunk and Juno's
-thigh,
+             There sweeps a spiral whirl of gesture
+             From the allegoric sky:
+             Beauty, like conscious lightning, runs
+             Through Jove's ribbed trunk and Juno's thigh,
 
-Slides down the flank of Mars and takes From Virtue's rump a dizzier
-twist, Licks round a cloud and whirling stoops Earthwards to Caesar's
-lifted fist.
+             Slides down the flank of Mars and takes
+             From Virtue's rump a dizzier twist,
+             Licks round a cloud and whirling stoops
+             Earthwards to Caesar's lifted fist.
 
-A burgess tumbles from the bridge Headlong, and hurrying Beauty slips
-From Caesar through the plunging legs To the blue sea between the ships.
-</poemblock>
+             A burgess tumbles from the bridge
+             Headlong, and hurrying Beauty slips
+             From Caesar through the plunging legs
+             To the blue sea between the ships.
 
 Reading it through, I flatter myself that this is very nearly up to
 international halma form. A little more, and I shall be playing in
@@ -4269,68 +4297,98 @@ and pretentious ever to be realised. I began (deep calls to deep) with
 Nero, the artist. "Nero and Sporus walking in the gardens of the Golden
 House."
 
-<poemblock> Dark stirrings in the perfumed air Touch your cheeks, lift
-your hair. With softer fingers I caress, Sporus, all your loveliness.
-Round as a fruit, tree-tangled, shines The moon; and fire-flies in the
-vines, Like stars in a delirious sky, Gleam and go out. Unceasingly The
-fountains fall, the nightingales Sing. But time flows and love avails
-Nothing. The Christians smoulder red; Their brave blue-hearted flames
-are dead. And you, sweet Sporus, you and I, We too must die, we too must
-die. </poemblock>
+               Dark stirrings in the perfumed air
+               Touch your cheeks, lift your hair.
+               With softer fingers I caress,
+               Sporus, all your loveliness.
+               Round as a fruit, tree-tangled, shines
+               The moon; and fire-flies in the vines,
+               Like stars in a delirious sky,
+               Gleam and go out. Unceasingly
+               The fountains fall, the nightingales
+               Sing. But time flows and love avails
+               Nothing. The Christians smoulder red;
+               Their brave blue-hearted flames are dead.
+               And you, sweet Sporus, you and I,
+               We too must die, we too must die.
 
 <noindent>But the soliloquy which followed was couched in a more
 philosophic key. I set forth in it all the reasons for halma's
 existence--reasons which, at the time when I composed the piece, I
 almost believed in still. One lives and learns. Meanwhile, here it is.
 
-<poemblock> The Christians by whose muddy light Dimly, dimly I divine
-Your eyes and see your pallid beauty Like a pale night-primrose shine
+              The Christians by whose muddy light
+              Dimly, dimly I divine
+              Your eyes and see your pallid beauty
+              Like a pale night-primrose shine
 
-Colourless in the dark, revere A God who slowly died that they Might
-suffer the less; who bore the pain Of all time in a single day,
+              Colourless in the dark, revere
+              A God who slowly died that they
+              Might suffer the less; who bore the pain
+              Of all time in a single day,
 
-The pain of all men in a single Wounded body and sad heart.
+              The pain of all men in a single
+              Wounded body and sad heart.
 
-The yellow marble smooth as water Builds me a Golden House; and there
-The marble gods sleep in their strength And the white Parian girls are
-fair.
+              The yellow marble smooth as water
+              Builds me a Golden House; and there
+              The marble gods sleep in their strength
+              And the white Parian girls are fair.
 
-Roses and waxen oleanders, Green grape bunches and the flushed peach,--
-All beautiful things I taste, touch, see, Knowing, loving, becoming
-each.
+              Roses and waxen oleanders,
+              Green grape bunches and the flushed peach,--
+              All beautiful things I taste, touch, see,
+              Knowing, loving, becoming each.
 
-The ship went down, my mother swam: I wedded and myself was wed; Old
-Claudius died of emperor-bane: Old Seneca too slowly bled.
+              The ship went down, my mother swam:
+              I wedded and myself was wed;
+              Old Claudius died of emperor-bane:
+              Old Seneca too slowly bled.
 
-The wild beast and the victim both, The ravisher and the wincing bride;
-King of the world and a slave's slave, Terror-haunted, deified--
+              The wild beast and the victim both,
+              The ravisher and the wincing bride;
+              King of the world and a slave's slave,
+              Terror-haunted, deified--
 
-An artist, O sweet Sporus, an artist, All these I am and needs must be.
-Is the tune Lydian? I have loved you. And you have heard my symphony
+              An artist, O sweet Sporus, an artist,
+              All these I am and needs must be.
+              Is the tune Lydian? I have loved you.
+              And you have heard my symphony
 
-Of wailing voices and clashed brass, With long shrill flutings that
-suspend Pain o'er a muttering gulf of terrors, And piercing breathless
-joys that end
+              Of wailing voices and clashed brass,
+              With long shrill flutings that suspend
+              Pain o'er a muttering gulf of terrors,
+              And piercing breathless joys that end
 
-In agony--could I have made My song of Furies were the bane Still sap
-within the hemlock stalk, The red swords virgin bright again?
+              In agony--could I have made
+              My song of Furies were the bane
+              Still sap within the hemlock stalk,
+              The red swords virgin bright again?
 
-Or take a child's love that is all Worship, all tenderness and trust, A
-dawn-web, dewy and fragile--take And with the violence of lust
+              Or take a child's love that is all
+              Worship, all tenderness and trust,
+              A dawn-web, dewy and fragile--take
+              And with the violence of lust
 
-Tear and defile it. You shall hear The breaking dumbness and the thin
-Harsh crying that is the very music Of shame and the remorse of sin.
+              Tear and defile it. You shall hear
+              The breaking dumbness and the thin
+              Harsh crying that is the very music
+              Of shame and the remorse of sin.
 
-Christ died; the artist lives for all; Loves, and his naked marbles
-stand Pure as a column on the sky, Whose lips, whose breast and thighs
-demand
+              Christ died; the artist lives for all;
+              Loves, and his naked marbles stand
+              Pure as a column on the sky,
+              Whose lips, whose breast and thighs demand
 
-Not our humiliation, not The shuddering of an after shame; And of his
-agonies men know Only the beauty born of them.
+              Not our humiliation, not
+              The shuddering of an after shame;
+              And of his agonies men know
+              Only the beauty born of them.
 
-Christ died, but living Nero turns Your mute remorse to song; he gives
-To idiot fate eyes like a lover's, And while his music plays, God lives.
-</poemblock>
+              Christ died, but living Nero turns
+              Your mute remorse to song; he gives
+              To idiot fate eyes like a lover's,
+              And while his music plays, God lives.
 
 <noindent>Romantic and noble sentiments! I protest, they do me credit.
 
@@ -4339,17 +4397,22 @@ the representative in my symbolic scheme of love. Here is one. "In the
 gardens at Capri." (All my scenes are laid in gardens, I notice, at
 night, under the moon. Perhaps the fact is significant. Who knows?)
 
-<poemblock> Hour after hour the stars Move, and the moon towards remoter
-night Averts her cheek. Blind now, these gardens yet remember That there
-were crimson petals glossy with light, And their remembrance is this
-scent of roses. Hour after hour the stars march slowly on, And year by
-year mysteriously the flowers Unfold the same bright pattern towards the
-sky.
+          Hour after hour the stars
+          Move, and the moon towards remoter night
+          Averts her cheek.
+          Blind now, these gardens yet remember
+          That there were crimson petals glossy with light,
+          And their remembrance is this scent of roses.
+          Hour after hour the stars march slowly on,
+          And year by year mysteriously the flowers
+          Unfold the same bright pattern towards the sky.
 
-Incurious under the streaming stars, Breathing this new yet immemorial
-perfume Unmoved, I lie along the tumbled bed; And the two women who are
-my bedfellows, Whose breath is sour with wine and their soft bodies
-Still hot and rank, sleep drunkenly at my side. </poemblock>
+          Incurious under the streaming stars,
+          Breathing this new yet immemorial perfume
+          Unmoved, I lie along the tumbled bed;
+          And the two women who are my bedfellows,
+          Whose breath is sour with wine and their soft bodies
+          Still hot and rank, sleep drunkenly at my side.
 
 <noindent>Commendable, I should now think, this fixture of the attention
 upon the relevant, the human reality in the centre of the pointless
@@ -4973,16 +5036,20 @@ towards her, I stretched out my hands and gripped her by her two thin
 arms a little below the shoulder. I bent down and kissed her averted
 cheek, she turned her face towards me, and it was her mouth.
 
-<poemblock> There is no future, there is no more past; No roots nor
-fruits, but momentary flowers. Lie still, only lie still and night will
-last Silent and dark, not for a space of hours, But everlastingly. Let
-me forget All but your perfume, every night but this, The shame, the
-fruitless weeping, the regret. Only lie still: this faint and quiet
-bliss Shall flower upon the brink of sleep and spread Till there is
-nothing else but you and I Clasped in a timeless silence. But like one
-Who, doomed to die, at morning will be dead, I know, though night seem
-dateless, that the sky Must brighten soon before to-morrow's sun.
-</poemblock>
+            There is no future, there is no more past;
+            No roots nor fruits, but momentary flowers.
+            Lie still, only lie still and night will last
+            Silent and dark, not for a space of hours,
+            But everlastingly. Let me forget
+            All but your perfume, every night but this,
+            The shame, the fruitless weeping, the regret.
+            Only lie still: this faint and quiet bliss
+            Shall flower upon the brink of sleep and spread
+            Till there is nothing else but you and I
+            Clasped in a timeless silence. But like one
+            Who, doomed to die, at morning will be dead,
+            I know, though night seem dateless, that the sky
+            Must brighten soon before to-morrow's sun.
 
 It was then that I learned to live only in the moment--to ignore causes,
 motives, antecedents, to refuse responsibility for what should follow.
@@ -5167,10 +5234,12 @@ of machines of destruction. I remembered the lines I had written for
 Barbara--the cheerful comic-amorous lines--at the time of the last
 epidemic of air raids. The octo-*syllables jingled in my head.
 
-<poem> But when the next full moon invites New bugaboos and
-fly-by-nights, Let us seek out some deep alcove, Some immemorial haunt
-of love. There we'll retire with cakes and wine And dare the imbecile to
-shine.... </poem>
+                 But when the next full moon invites
+                 New bugaboos and fly-by-nights,
+                 Let us seek out some deep alcove,
+                 Some immemorial haunt of love.
+                 There we'll retire with cakes and wine
+                 And dare the imbecile to shine....
 
 <noindent>I was just repeating them to myself, when a taxi turned into
 the quiet square, rolled slowly along the curb and came to a halt in
@@ -6490,8 +6559,10 @@ age--no, no."
 "For the sake of argument," Mr. Cardan replied, "and because one must
 murder the time somehow.
 
-<poem> Come ingannar questi noiosi e lenti Giorni di vita cui si lungo
-tedio E fastidio insoffribile accompagna Or io t'insegnero. <poem>
+                  Come ingannar questi noiosi e lenti
+                  Giorni di vita cui si lungo tedio
+                  E fastidio insoffribile accompagna
+                  Or io t'insegnero.
 
 <noindent>I could write a better handbook of the art than old Parini."
 
@@ -6605,20 +6676,30 @@ had recently occurred to him and to which, during the last two days, he
 had been giving its definite form. Now it was finished; a little
 polishing, that was all it needed now.
 
-<poem> Through the pale skeleton of woods Orion walks. The north wind
-lays Its cold lips to the twin steel flutes That are his gun and plays.
+               Through the pale skeleton of woods
+               Orion walks. The north wind lays
+               Its cold lips to the twin steel flutes
+               That are his gun and plays.
 
-Knee-deep he goes where, penny-wiser Than all his kind who steal and
-hoard, Year after year, some sylvan miser His copper wealth has stored.
+               Knee-deep he goes where, penny-wiser
+               Than all his kind who steal and hoard,
+               Year after year, some sylvan miser
+               His copper wealth has stored.
 
-The Queen of Love and Beauty lays In neighbouring beechen aisles her
-baits-- Bread-crumbs and the golden maize. Patiently she waits.
+               The Queen of Love and Beauty lays
+               In neighbouring beechen aisles her baits--
+               Bread-crumbs and the golden maize.
+               Patiently she waits.
 
-And when the unwary pheasant comes To fill his painted maw with crumbs,
-Accurately the sporting Queen Takes aim. The bird has been.
+               And when the unwary pheasant comes
+               To fill his painted maw with crumbs,
+               Accurately the sporting Queen
+               Takes aim. The bird has been.
 
-Secure, Orion walks her way. The Cyprian loads, presents, makes fire. He
-falls. 'Tis Venus all entire Attached to her recumbent prey. </poem>
+               Secure, Orion walks her way.
+               The Cyprian loads, presents, makes fire.
+               He falls. 'Tis Venus all entire
+               Attached to her recumbent prey.
 
 <noindent>Chelifer repeated the verses to himself and was not
 displeased. The second stanza was a little too "quaint," perhaps; a
@@ -6630,8 +6711,8 @@ It gave Racine his _raison d'être_; if Racine had never existed, it
 would have been necessary to invent him, merely for the sake of those
 last lines.
 
-<poem> He falls. 'Tis Venus all entire Attached to her recumbent prey.
-</poem>
+                    He falls. 'Tis Venus all entire
+                    Attached to her recumbent prey.
 
 <noindent>Chelifer lingered over them in ecstasy. He became aware, all
 at once, that Mrs. Aldwinkle was addressing herself to him more
@@ -7005,14 +7086,20 @@ it's made of marble. Beyond that I can discover nothing."
 Mr. Cardan shook his head. "Alas," he said, "for sordid reasons. You
 remember what the poet wrote?
 
-<poem> I have been in love, in debt and in drink This many and many a
-year; And these are three evils too great, one would think, For one poor
-mortal to bear. 'Twas love that first drove me to drinking, And drinking
-first drove me to debt, And though I have struggled and struggled and
-strove, I cannot get out of them yet. There's nothing but money can cure
-me And ease me of all my pain; 'Twill pay all my debts and remove all my
-lets, And my mistress who cannot endure me Will turn to and love me
-again, Will turn to and love me again. </poem>
+         I have been in love, in debt and in drink
+           This many and many a year;
+         And these are three evils too great, one would think,
+           For one poor mortal to bear.
+         'Twas love that first drove me to drinking,
+           And drinking first drove me to debt,
+         And though I have struggled and struggled and strove,
+           I cannot get out of them yet.
+         There's nothing but money can cure me
+           And ease me of all my pain;
+         'Twill pay all my debts and remove all my lets,
+         And my mistress who cannot endure me
+           Will turn to and love me again,
+           Will turn to and love me again.
 
 <noindent>There's a summary of a lifetime for you. One has no regrets,
 of course. But still, one does need cash--needs it the more, alas, the
@@ -7477,12 +7564,14 @@ out, naturally or unnaturally, by the act of God or of the King's
 enemies. Mr. Cardan's thoughts took on, all at once, a dismal
 complexion. Old age, sickness, decrepitude; the bath-chair, the doctor,
 the bright efficient nurse; and the long agony, the struggle for breath,
-the thicken-* *ing darkness, the end, and then--how did that merry
-little song go?
+the thickening darkness, the end, and then--how did that merry little
+song go?
 
-<poem> More work for the undertaker, 'Nother little job for the
-coffin-maker. At the local cemetery they are Very very busy with a brand
-new grave. He'll keep warm next winter. </poem>
+                More work for the undertaker,
+                'Nother little job for the coffin-maker.
+                At the local cemetery they are
+                Very very busy with a brand new grave.
+                  He'll keep warm next winter.
 
 <noindent>Mr. Cardan hummed the tune to himself cheerfully enough. But
 his tough, knobbly face became so hard, so strangely still, an
@@ -7491,8 +7580,8 @@ his winking and his supercilious eye that it would have startled and
 frightened a man to look at him. But there was nobody in that deepening
 twilight to see him. He sat there alone.
 
-<poem> At the local cemetery they are Very very busy with a brand new
-grave.... </poem>
+               At the local cemetery they are
+               Very very busy with a brand new grave....
 
 <noindent>He went on humming. "If I were to fall sick," he was thinking,
 "who would look after me? Suppose one were to have a stroke. Hemorrhage
@@ -7504,7 +7593,7 @@ perhaps, for an hour, out of charity; 'Poor old Cardan, done for, I'm
 afraid; must send the old chap a fiver--hasn't a penny, you know; get up
 a subscription; what a bore; astonishing that he can last so long....'"
 
-<poem> He'll keep warm next winter. </poem>
+                      He'll keep warm next winter.
 
 <noindent>The tune ended on a kind of trumpet call, rising from the
 dominant to the tonic--one dominant, three repeated tonics, drop down
@@ -7543,8 +7632,8 @@ effectively than those who were handicapped by no eccentricity?
 Absorbing themes. But Mr. Cardan couldn't keep his attention fixed on
 them. General paralysis of the insane, he reflected, was luckily an
 ailment for which he had not qualified in the past; luckily!
-miraculously, even! But stone, but neuritis, but fatty de-* *generation,
-but diabetes.... Lord, how he wished he had somebody to talk to!
+miraculously, even! But stone, but neuritis, but fatty degeneration, but
+diabetes.... Lord, how he wished he had somebody to talk to!
 
 And all at once, as though in immediate answer to his prayer, he heard
 the sound of voices approaching through the now complete darkness.
@@ -8568,8 +8657,8 @@ come that look of anxious, unhappy love with which a child looks at his
 mother when he thinks that she is going to leave him. Mr. Cardan could
 not have felt more remorseful if he had committed a murder.
 
-<poem> What every weakness, every vice? Tom Cardan, all were thine.
-</poem>
+                    What every weakness, every vice?
+                    Tom Cardan, all were thine.
 
 <noindent>All the same, there were certain things the doing of which one
 felt to be an outrage. Still, one had to think of those seventeen
@@ -8776,7 +8865,7 @@ of the younger generation. "All that one only dimly feels he expresses.
 Can you be surprised at our admiration?"
 
 So far Mrs. Chelifer was rather surprised by everything. It took her
-some time to get used to Mrs. Ald-* *winkle. Nor was the aspect of the
+some time to get used to Mrs. Aldwinkle. Nor was the aspect of the
 palace calculated to allay her astonishment.
 
 "A superb specimen of early baroque," Mrs. Aldwinkle assured her,
@@ -9020,7 +9109,7 @@ like the episodes with Peter and Jacques and the rest of them.
 
 She put on her dressing-gown and walked down the long corridor to Mrs.
 Aldwinkle's room. Cardinal Alderano was left alone with his devils and
-the obse-* *quious angels, his nine naked Muses and the Eternal Father.
+the obsequious angels, his nine naked Muses and the Eternal Father.
 
 When Irene came in, Aunt Lilian was sitting in front of her
 looking-glass, rubbing skin food into her face.
@@ -10362,15 +10451,15 @@ Seated on a fallen column in the ruins of Hadrian's Villa, Mrs.
 Aldwinkle even went so far as to tell him about certain amorous passages
 in her past life. She told him, with various little modifications of the
 facts, modifications in which she herself had long ago come implicitly
-to believe, the story of the affair with Elzevir, the pianist* *--such
-an artist! to his finger-tips; with Lord Trunion--such a _grand
-seigneur_ of the old school! But concerning Mr. Cardan she was silent.
-It was not that Mrs. Aldwinkle's mythopoeic faculties were not equal to
-making something very extraordinary and romantic out of Mr. Cardan. No,
-no; she had often described the man to those who did not know him; he
-was a sort of village Hampden, a mute inglorious What's-his-name, who
-might have done anything--but anything--if he had chosen to give himself
-the trouble. He was a great Don Juan, actual in this case, not merely
+to believe, the story of the affair with Elzevir, the pianist--such an
+artist! to his finger-tips; with Lord Trunion--such a _grand seigneur_
+of the old school! But concerning Mr. Cardan she was silent. It was not
+that Mrs. Aldwinkle's mythopoeic faculties were not equal to making
+something very extraordinary and romantic out of Mr. Cardan. No, no; she
+had often described the man to those who did not know him; he was a sort
+of village Hampden, a mute inglorious What's-his-name, who might have
+done anything--but anything--if he had chosen to give himself the
+trouble. He was a great Don Juan, actual in this case, not merely
 potential. He was a mocking devil's advocate, he was even a devil. But
 that was because he was misunderstood--misunderstood by everybody but
 Mrs. Aldwinkle herself. Secretly he was so sensitive and kind-hearted.
@@ -11070,8 +11159,8 @@ rudely in the ribs. I got what I asked for.
 I was like that wanton Blackamoor in one of old Busch's misanthropically
 comic picture-books.
 
-<poem> Ein Mohr aus Bosheit und Pläsier Schiesst auf das Elefantentier.
-</poem>
+                    Ein Mohr aus Bosheit und Pläsier
+                    Schiesst auf das Elefantentier.
 
 <noindent>With his little arrow he punctures the placid pachyderm; and
 the pachyderm takes his revenge, elaborately, through fourteen

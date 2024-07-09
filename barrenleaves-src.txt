@@ -6,6 +6,16 @@
 
 .dt Those Barren Leaves | Project Gutenberg
 
+// Macros
+
+.dm poem-block-start
+.nf b
+.dm-
+
+.dm poem-block-end
+.nf-
+.dm-
+
 .bn 001.png
 
 // right-justified half title (html/text versions)
@@ -247,22 +257,22 @@ found it difficult to explain why--worthy of serious attention.
 The last verse embodied a piece of specific good
 advice.
 
-<poemblock>
+.pm poem-block-start
 Intanto se vuoi vincere
 Un bel ternone al Lotto,
 Giuoca il sette e il sedici,
 Uniti al cinquantotto.
-</poemblock>
+.pm poem-block-end
 
 He read through the verse several times until he had
 got it by heart; then folded up the paper and put it away
 again. Seven, sixteen and fifty-eight--there certainly
 was something very attractive about those numbers.
 
-<poemblock>
+.pm poem-block-start
 Giuoca il sette e il sedici
 Uniti al cinquantotto.
-</poemblock>
+.pm poem-block-end
 
 He had a very good mind to do as the oracle commanded.
 It was a charm, a spell to bind fate: one couldn't
@@ -1047,9 +1057,9 @@ Calamy about Pasquale da Montecatini.
 CHAPTER III
 .sp 2
 
-Dinner was served in the Saloon of the Ancestors.
+Dinner was served in the Saloon of the Ancestors.<special>
 
-In Mrs. Aldwinkle's enthusiastic imagination what
+</special>In Mrs. Aldwinkle's enthusiastic imagination what
 marvellous symposia had been held within those walls--centuries
 even before they were built--what intellectual
 feasts! Aquinas, here, had confided to an early Malaspina
@@ -3098,10 +3108,10 @@ there is in you to be enslaved and involved."
 
 "It wasn't Browning's opinion," said Mr. Cardan.
 
-<poemblock>
+.pm poem-block-start
 "The woman yonder, there's no use in life
 But just to obtain her."
-</poemblock>
+.pm poem-block-end
 
 "Browning was a fool," said Calamy.
 
@@ -3173,12 +3183,12 @@ me. Positively, you know, I can do anything and yet
 remain respectable in my own eyes, and in the eyes of
 others not merely wonderfully decent, but even noble.
 
-<poemblock>
+.pm poem-block-start
 "Ah, what avail the loaded dice?
 Ah, what the tubs of wine?
 What every weakness, every vice?
 Tom Cardan, all were thine.
-</poemblock>
+.pm poem-block-end
 
 <noindent>I won't bore you with the rest of this epitaph which I
 composed for myself some little time ago. Suffice to say
@@ -3210,10 +3220,10 @@ Sometimes," Calamy went on, sighing, "I positively regret
 the time I spent in the army during the war. Then, at
 any rate, there was no question of doing what one liked;
 there was no liberty, no choice. One did what one was
-told and that was all. Now I'm free; I have every op-*
+told and that was all. Now I'm free; I have every opportunity
 .bn 080.png
 .pn +1
-*portunity for doing exactly what I like--and I consistently
+for doing exactly what I like--and I consistently
 do what I don't like."
 
 "But do you know exactly what you do like?" asked
@@ -4088,7 +4098,7 @@ Lying there on the water, I repeated to myself
 a copy of verses, inspired by reflections like these, which
 I had written some few months before.
 
-<poemblock>
+.pm poem-block-start
 The Holy Ghost comes sliding down
 On Ilford, Golders Green and Penge.
 His hosts infect him as they rot;
@@ -4105,7 +4115,7 @@ That we are native where we walk
 Through the dim streets of Camden Town.
 But hopeful still through twice-breathed air
 The Holy Ghost comes shining down.
-</poemblock>
+.pm poem-block-end
 
 I wrote these lines, I remember, one dark afternoon in
 my office in Gog's Court, Fetter Lane. It is in the same
@@ -4290,13 +4300,13 @@ Gog's Court, the navel of reality! Repeating
 those verses of mine in the silence, I intimately felt
 the truth of it.
 
-<poemblock>
+.pm poem-block-start
 For if of old the sons of squires
 And livery stable keepers turned
 To flowers and hope, to Greece and God,
 We, in our later age have learned
 That we are native where we walk.
-</poemblock>
+.pm poem-block-end
 
 My voice boomed out oracularly across the flat sea.
 Nothing so richly increases the significance of a statement
@@ -4838,7 +4848,7 @@ man of the inferior race knows his. The servant comes
 in with a steaming dish of greens. <i><lang=la>Crambe repetita</lang></i>--inspiring
 perfume! Mentally I burst into song.
 
-<poemblock>
+.pm poem-block-start
 These like remorse inveterate memories,
 Being of cabbage, are prophetic too
 Of future feasts, when Mrs. Cloudesley Shove
@@ -4852,7 +4862,7 @@ Remembers and foretells that roses were
 Red and to-morrow will again be red,
 But, "Cloudesley, Cloudesley!" Philomel in vain
 Sobs on the night; for Cloudesley Shove is dead....
-</poemblock>
+.pm poem-block-end
 
 And in the flesh, as though irresistibly summoned by
 my incantation, Mrs. Cloudesley Shove blackens the doorway
@@ -5292,7 +5302,7 @@ she still preserves, along with the locks of my pale childish
 hair, the faded photographs, the precocious drawings
 of railway trains and all the other relics of the period.
 
-<poemblock>
+.pm poem-block-start
 Oh, lark, how you do fly
 Right up into the sky.
 How loud he sings
@@ -5301,7 +5311,7 @@ The sun does shine,
 The weather is fine.
 Father says, Hark,
 Do you hear the lark?
-</poemblock>
+.pm poem-block-end
 
 <noindent>My mother likes that poem better, I believe, than anything
 I have written since. And I daresay that my father, if
@@ -5447,7 +5457,7 @@ Puteoli. By Peter Paul Rubens (b. 1577: d. 1640)."
 The poem itself, however, is not very reminiscent of the
 Lake District.
 
-<poemblock>
+.pm poem-block-start
 Prow after prow the floating ships
 Bridge the blue gulph; the road is laid.
 Caesar on a piebald horse
@@ -5489,7 +5499,7 @@ A burgess tumbles from the bridge
 Headlong, and hurrying Beauty slips
 From Caesar through the plunging legs
 To the blue sea between the ships.
-</poemblock>
+.pm poem-block-end
 
 Reading it through, I flatter myself that this is very
 nearly up to international halma form. A little more, and
@@ -5511,7 +5521,7 @@ and pretentious ever to be realised. I began (deep calls
 to deep) with Nero, the artist. "Nero and Sporus walking
 in the gardens of the Golden House."
 
-<poemblock>
+.pm poem-block-start
 Dark stirrings in the perfumed air
 Touch your cheeks, lift your hair.
 With softer fingers I caress,
@@ -5526,7 +5536,7 @@ Nothing. The Christians smoulder red;
 Their brave blue-hearted flames are dead.
 And you, sweet Sporus, you and I,
 We too must die, we too must die.
-</poemblock>
+.pm poem-block-end
 
 <noindent>But the soliloquy which followed was couched in a more
 philosophic key. I set forth in it all the reasons for
@@ -5534,7 +5544,7 @@ halma's existence--reasons which, at the time when I
 composed the piece, I almost believed in still. One lives
 and learns. Meanwhile, here it is.
 
-<poemblock>
+.pm poem-block-start
 The Christians by whose muddy light
 Dimly, dimly I divine
 Your eyes and see your pallid beauty
@@ -5611,7 +5621,7 @@ Christ died, but living Nero turns
 Your mute remorse to song; he gives
 To idiot fate eyes like a lover's,
 And while his music plays, God lives.
-</poemblock>
+.pm poem-block-end
 
 <noindent>Romantic and noble sentiments! I protest, they do me
 credit.
@@ -5623,7 +5633,7 @@ scheme of love. Here is one. "In the gardens at Capri."
 under the moon. Perhaps the fact is significant. Who
 knows?)
 
-<poemblock>
+.pm poem-block-start
 Hour after hour the stars
 Move, and the moon towards remoter night
 Averts her cheek.
@@ -5640,7 +5650,7 @@ Unmoved, I lie along the tumbled bed;
 And the two women who are my bedfellows,
 Whose breath is sour with wine and their soft bodies
 Still hot and rank, sleep drunkenly at my side.
-</poemblock>
+.pm poem-block-end
 
 <noindent>Commendable, I should now think, this fixture of the
 attention upon the relevant, the human reality in the centre
@@ -6427,7 +6437,7 @@ gripped her by her two thin arms a little below the shoulder.
 I bent down and kissed her averted cheek, she turned
 her face towards me, and it was her mouth.
 
-<poemblock>
+.pm poem-block-start
 There is no future, there is no more past;
 No roots nor fruits, but momentary flowers.
 Lie still, only lie still and night will last
@@ -6442,7 +6452,7 @@ Clasped in a timeless silence. But like one
 Who, doomed to die, at morning will be dead,
 I know, though night seem dateless, that the sky
 Must brighten soon before to-morrow's sun.
-</poemblock>
+.pm poem-block-end
 
 It was then that I learned to live only in the moment--to
 ignore causes, motives, antecedents, to refuse responsibility
@@ -6681,14 +6691,14 @@ written for Barbara--the cheerful comic-amorous lines--at
 the time of the last epidemic of air raids. The octo-*syllables
 jingled in my head.
 
-<poem>
+.pm poem-block-start
 But when the next full moon invites
 New bugaboos and fly-by-nights,
 Let us seek out some deep alcove,
 Some immemorial haunt of love.
 There we'll retire with cakes and wine
 And dare the imbecile to shine....
-</poem>
+.pm poem-block-end
 
 <noindent>I was just repeating them to myself, when a taxi turned
 into the quiet square, rolled slowly along the curb and
@@ -8350,12 +8360,12 @@ asked Mr. Falx.
 "For the sake of argument," Mr. Cardan replied, "and
 because one must murder the time somehow.
 
-<poem><lang=it>
-Come ingannar questi noiosi e lenti
+.pm poem-block-start
+<lang=it>Come ingannar questi noiosi e lenti
 Giorni di vita cui si lungo tedio
 E fastidio insoffribile accompagna
-Or io t'insegnero.
-</lang><poem>
+Or io t'insegnero.</lang>
+.pm poem-block-end
 
 <noindent>I could write a better handbook of the art than old
 Parini."
@@ -8499,7 +8509,7 @@ two days, he had been giving its definite form. Now it
 was finished; a little polishing, that was all it needed
 now.
 
-<poem>
+.pm poem-block-start
 Through the pale skeleton of woods
 Orion walks. The north wind lays
 Its cold lips to the twin steel flutes
@@ -8524,7 +8534,7 @@ Secure, Orion walks her way.
 The Cyprian loads, presents, makes fire.
 He falls. 'Tis Venus all entire
 Attached to her recumbent prey.
-</poem>
+.pm poem-block-end
 .bn 205.png
 .pn +1
 
@@ -8539,10 +8549,10 @@ masterly. It gave Racine his <i><lang=fr>raison d'être</lang></i>; if Racine ha
 never existed, it would have been necessary to invent him,
 merely for the sake of those last lines.
 
-<poem>
+.pm poem-block-start
 He falls. 'Tis Venus all entire
 Attached to her recumbent prey.
-</poem>
+.pm poem-block-end
 
 <noindent>Chelifer lingered over them in ecstasy. He became aware,
 all at once, that Mrs. Aldwinkle was addressing herself
@@ -9016,7 +9026,7 @@ marble. Beyond that I can discover nothing."
 Mr. Cardan shook his head. "Alas," he said, "for
 sordid reasons. You remember what the poet wrote?
 
-<poem>
+.pm poem-block-start
 I have been in love, in debt and in drink
   This many and many a year;
 And these are three evils too great, one would think,
@@ -9031,7 +9041,7 @@ There's nothing but money can cure me
 And my mistress who cannot endure me
   Will turn to and love me again,
   Will turn to and love me again.
-</poem>
+.pm poem-block-end
 
 <noindent>There's a summary of a lifetime for you. One has no
 regrets, of course. But still, one does need cash--needs
@@ -9612,19 +9622,19 @@ naturally or unnaturally, by the act of God or of the
 King's enemies. Mr. Cardan's thoughts took on, all at
 once, a dismal complexion. Old age, sickness, decrepitude;
 the bath-chair, the doctor, the bright efficient nurse;
-and the long agony, the struggle for breath, the thicken-*
+and the long agony, the struggle for breath, the thickening
 .bn 230.png
 .pn +1
-*ing darkness, the end, and then--how did that merry
+darkness, the end, and then--how did that merry
 little song go?
 
-<poem>
+.pm poem-block-start
 More work for the undertaker,
 'Nother little job for the coffin-maker.
 At the local cemetery they are
 Very very busy with a brand new grave.
   He'll keep warm next winter.
-</poem>
+.pm poem-block-end
 
 <noindent>Mr. Cardan hummed the tune to himself cheerfully
 enough. But his tough, knobbly face became so hard, so
@@ -9634,10 +9644,10 @@ supercilious eye that it would have startled and frightened
 a man to look at him. But there was nobody in that
 deepening twilight to see him. He sat there alone.
 
-<poem>
+.pm poem-block-start
 At the local cemetery they are
 Very very busy with a brand new grave....
-</poem>
+.pm poem-block-end
 
 <noindent>He went on humming. "If I were to fall sick," he was
 thinking, "who would look after me? Suppose one were
@@ -9652,9 +9662,9 @@ send the old chap a fiver--hasn't a penny, you know; get
 up a subscription; what a bore; astonishing that he can
 last so long....'"
 
-<poem>
+.pm poem-block-start
 He'll keep warm next winter.
-</poem>
+.pm poem-block-end
 
 <noindent>The tune ended on a kind of trumpet call, rising from
 the dominant to the tonic--one dominant, three repeated
@@ -9704,10 +9714,10 @@ by no eccentricity? Absorbing themes. But Mr.
 Cardan couldn't keep his attention fixed on them. General
 paralysis of the insane, he reflected, was luckily an
 ailment for which he had not qualified in the past; luckily!
-miraculously, even! But stone, but neuritis, but fatty de-*
+miraculously, even! But stone, but neuritis, but fatty degeneration,
 .bn 232.png
 .pn +1
-*generation, but diabetes.... Lord, how he wished he
+but diabetes.... Lord, how he wished he
 had somebody to talk to!
 
 And all at once, as though in immediate answer to his
@@ -10995,10 +11005,10 @@ thinks that she is going to leave him. Mr. Cardan could
 not have felt more remorseful if he had committed a
 murder.
 
-<poem>
+.pm poem-block-start
 What every weakness, every vice?
 Tom Cardan, all were thine.
-</poem>
+.pm poem-block-end
 
 <noindent>All the same, there were certain things the doing of which
 one felt to be an outrage. Still, one had to think of those
@@ -11263,10 +11273,10 @@ younger generation. "All that one only dimly feels he
 expresses. Can you be surprised at our admiration?"
 
 So far Mrs. Chelifer was rather surprised by everything.
-It took her some time to get used to Mrs. Ald-*
+It took her some time to get used to Mrs. Aldwinkle.
 .bn 268.png
 .pn +1
-*winkle. Nor was the aspect of the palace calculated to
+Nor was the aspect of the palace calculated to
 allay her astonishment.
 
 "A superb specimen of early baroque," Mrs. Aldwinkle
@@ -11581,10 +11591,10 @@ the rest of them.
 
 She put on her dressing-gown and walked down the
 long corridor to Mrs. Aldwinkle's room. Cardinal
-Alderano was left alone with his devils and the obse-*
+Alderano was left alone with his devils and the obsequious
 .bn 276.png
 .pn +1
-*quious angels, his nine naked Muses and the Eternal
+angels, his nine naked Muses and the Eternal
 Father.
 
 When Irene came in, Aunt Lilian was sitting in front
@@ -13271,10 +13281,10 @@ Villa, Mrs. Aldwinkle even went so far as to tell him
 about certain amorous passages in her past life. She told
 him, with various little modifications of the facts, modifications
 in which she herself had long ago come implicitly
-to believe, the story of the affair with Elzevir, the pianist*
+to believe, the story of the affair with Elzevir, the pianist--such
 .bn 317.png
 .pn +1
-*--such an artist! to his finger-tips; with Lord Trunion--such
+an artist! to his finger-tips; with Lord Trunion--such
 a <i><lang=fr>grand seigneur</lang></i> of the old school! But concerning
 Mr. Cardan she was silent. It was not that Mrs. Aldwinkle's
 mythopoeic faculties were not equal to making
@@ -14185,10 +14195,10 @@ poked it rudely in the ribs. I got what I asked for.
 I was like that wanton Blackamoor in one of old
 Busch's misanthropically comic picture-books.
 
-<poem>
+.pm poem-block-start
 Ein Mohr aus Bosheit und Pläsier
 Schiesst auf das Elefantentier.
-</poem>
+.pm poem-block-end
 
 <noindent>With his little arrow he punctures the placid pachyderm;
 and the pachyderm takes his revenge, elaborately, through
