@@ -14142,9 +14142,10 @@ Mr. Cardan's door.
 .sp 4
 .h3 id="chapter-4-7"
 CHAPTER VII
+.sp 1
+.ce
+<l><i>Selections from Francis Chelifer</i></l>
 .sp 2
-<i>Selections from Francis Chelifer</i>
-
 
 .pm drop-cap
 In the sporting calendar the most interesting events are
