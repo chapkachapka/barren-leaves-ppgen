@@ -37,6 +37,8 @@
 
 .de .uppercase {text-transform:uppercase;}
 
+.de div.linegroup {margin-top:1em;}
+
 // Front matter
 
 .bn 001.png
