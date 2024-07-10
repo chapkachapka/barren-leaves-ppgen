@@ -1756,7 +1756,7 @@ in Balzac's <cite><lang=fr>Cousine Bette</lang></cite>. You remember the story?"
 .bn 045.png
 .pn +1
 
-<special>"Such a wonderful ...!"</special> exclaimed Mrs. Aldwinkle,
+"Such a wonderful...!" exclaimed Mrs. Aldwinkle,
 with that large and indistinct enthusiasm evoked in her
 by every masterpiece of art.
 
@@ -4334,7 +4334,7 @@ which we inherit from our animal forefathers and share
 with our household pets. The gratifying thing would
 be if we could find in contemporary society evidences of
 peculiarly human virtues--the conscious rational virtues
-that ought to belong by definition to <special>a being called himself</special>
+that ought to belong by definition to a being called himself
 Homo Sapiens. Open-mindedness, for example, absence
 of irrational prejudice, complete tolerance and a
 steady, reasonable pursuit of social goods. But these,
@@ -4689,7 +4689,7 @@ And this article on the derivation of 'rabbit'"--he looked
 at his paper again and coughed. "Who wants to know
 .bn 115.png
 .pn +1
-that there's a Walloon word '<special><lang=wa>robett</lang></special>'? Or that our word
+that there's a Walloon word '<lang=wa>robett</lang>'? Or that our word
 may have something to do with the Spanish <i><lang=es>rabear</lang></i>, to
 wag the hind quarters? And who, by the way," he
 added, looking up at me over his pince-nez with an air--prematurely
@@ -9878,11 +9878,11 @@ to a woman, loomed up out of the dark. Mr. Cardan
 removed the cigar from his mouth, took off his hat and
 bowed in their direction.
 
-<special>
-"<i>Nel mezzo del cammin di nostra vita</i>" he began,
-"<i>mi ritrovai per una selva oscura,
-"che la diritta via era smarrita.</i>"
-</special>
+"<i><lang=it>Nel mezzo del cammin di nostra vita,</lang></i>" he began,
+
+"<i><lang=it>mi ritrovai per una selva oscura,</lang></i>
+
+"<i><lang=it>che la diritta via era smarrita.</lang></i>"
 
 How lucky that Dante should also have lost his way, six
 hundred and twenty-four years ago! "In a word," Mr.
@@ -13614,7 +13614,7 @@ seemed preoccupied.
 CHAPTER V
 .sp 2
 
-<special>
+
 .pm drop-start
 <i>“An</i>
 .pm drop-end
@@ -13636,7 +13636,7 @@ real linguistic genius, those creatures. What poets they
 must have produced! 'When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
 <i><lang=ett>ziz</lang></i>'--one can imagine the odes in praise of wine which
 began like that. You couldn't bring together eight such
-juicy, boozy syllables as that in English, could you?"</special>
+juicy, boozy syllables as that in English, could you?"
 
 "What about 'Ale in a Saxon rumkin then'?" suggested
 Chelifer.
