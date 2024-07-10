@@ -167,6 +167,12 @@ V: CONCLUSIONS | #359:part-5#
 
 .ta-
 
+// Set registers for main text
+
+.pi
+.nr psi .5em
+.nr psb .5em
+
 // Beginning of main text
 
 .pb
@@ -3230,7 +3236,8 @@ What every weakness, every vice?
 Tom Cardan, all were thine.
 .pm poem-block-end
 
-<noindent>I won't bore you with the rest of this epitaph which I
+.ni
+I won't bore you with the rest of this epitaph which I
 composed for myself some little time ago. Suffice to say
 that I point out in the two subsequent stanzas that these
 things availed absolutely nothing and that, <i><lang=fr>malgré tout</lang></i>,
@@ -3238,6 +3245,7 @@ I remained the honest, sober, pure and high-minded man
 that every one always instinctively recognises me to be."
 Mr. Cardan emptied his glass and reached out once more
 for the fiasco.
+.pi
 
 "You're fortunate," said Calamy. "It's not all of us
 whose personalities have such a natural odour of sanctity
@@ -5371,7 +5379,8 @@ Father says, Hark,
 Do you hear the lark?
 .pm poem-block-end
 
-<noindent>My mother likes that poem better, I believe, than anything
+.ni
+My mother likes that poem better, I believe, than anything
 I have written since. And I daresay that my father, if
 he had lived, would have shared her opinion. But then
 he was an ardent Wordsworthian. He knew most of the
@@ -5380,6 +5389,7 @@ profound and god-like silence with which he always enveloped
 himself, he would quote a line or two. The
 effect was always portentous; it was as though an oracle
 had spoken.
+.pi
 
 I remember with particular vividness one occasion when
 Wordsworth broke my father's prodigious silence. It
@@ -5599,11 +5609,13 @@ And you, sweet Sporus, you and I,
 We too must die, we too must die.
 .pm poem-block-end
 
-<noindent>But the soliloquy which followed was couched in a more
+.ni
+But the soliloquy which followed was couched in a more
 philosophic key. I set forth in it all the reasons for
 halma's existence--reasons which, at the time when I
 composed the piece, I almost believed in still. One lives
 and learns. Meanwhile, here it is.
+.pi
 
 .pm poem-block-start
 The Christians by whose muddy light
@@ -5684,8 +5696,10 @@ To idiot fate eyes like a lover's,
 And while his music plays, God lives.
 .pm poem-block-end
 
-<noindent>Romantic and noble sentiments! I protest, they do me
+.ni
+Romantic and noble sentiments! I protest, they do me
 credit.
+.pi
 
 And then there are the fragments about Tiberius;
 Tiberius, need I add, the representative in my symbolic
@@ -5713,13 +5727,15 @@ Whose breath is sour with wine and their soft bodies
 Still hot and rank, sleep drunkenly at my side.
 .pm poem-block-end
 
-<noindent>Commendable, I should now think, this fixture of the
+.ni
+Commendable, I should now think, this fixture of the
 attention upon the relevant, the human reality in the centre
 of the pointless landscape. It was just at the time I wrote
 this fragment that I was learning the difficult art of this
 exclusive concentration on the relevant. They were painful
 lessons. War had prepared me to receive them; Love
 was the lecturer.
+.pi
 .bn 138.png
 .pn +1
 
@@ -6761,7 +6777,8 @@ There we'll retire with cakes and wine
 And dare the imbecile to shine....
 .pm poem-block-end
 
-<noindent>I was just repeating them to myself, when a taxi turned
+.ni
+I was just repeating them to myself, when a taxi turned
 into the quiet square, rolled slowly along the curb and
 came to a halt in front of the house where Barbara lived.
 By the dim light of a muffled street lamp I saw two
@@ -6772,6 +6789,7 @@ at the recording clock-face. In the narrow beam I saw
 the glitter of a monocle. Money clinked, the taxi drove
 away. The two figures mounted the steps; the door
 opened before them, they passed into the house.
+.pi
 
 I walked away, repeating to myself every injurious and
 abusive word that can be applied to a woman. I felt, if
@@ -8440,8 +8458,10 @@ E fastidio insoffribile accompagna
 Or io t'insegnero.</lang>
 .pm poem-block-end
 
-<noindent>I could write a better handbook of the art than old
+.ni
+I could write a better handbook of the art than old
 Parini."
+.pi
 
 "I'm sorry," said Mr. Falx, "but I don't know Italian."
 
@@ -8614,7 +8634,8 @@ Attached to her recumbent prey.
 .bn 205.png
 .pn +1
 
-<noindent>Chelifer repeated the verses to himself and was not displeased.
+.ni
+Chelifer repeated the verses to himself and was not displeased.
 The second stanza was a little too "quaint,"
 perhaps; a little too--how should he put it?--too Walter-Crane's-picture-book.
 One might omit it altogether, perhaps;
@@ -8624,16 +8645,19 @@ elegance of the rest. As for the last verse, that was really
 masterly. It gave Racine his <i><lang=fr>raison d'être</lang></i>; if Racine had
 never existed, it would have been necessary to invent him,
 merely for the sake of those last lines.
+.pi
 
 .pm poem-block-start
 He falls. 'Tis Venus all entire
 Attached to her recumbent prey.
 .pm poem-block-end
 
-<noindent>Chelifer lingered over them in ecstasy. He became aware,
+.ni
+Chelifer lingered over them in ecstasy. He became aware,
 all at once, that Mrs. Aldwinkle was addressing herself
 to him more directly. From inharmoniously Aeolian, her
 voice became once more articulate.
+.pi
 
 "That's what you're like," she was saying. "Tell me
 I'm right. Say I understand you."
@@ -9125,12 +9149,14 @@ And my mistress who cannot endure me
   Will turn to and love me again.
 .pm poem-block-end
 
-<noindent>There's a summary of a lifetime for you. One has no
+.ni
+There's a summary of a lifetime for you. One has no
 regrets, of course. But still, one does need cash--needs
 it the more, alas, the older one grows, and has less of it.
 What other reason, do you think, would send me sweating
 up this hill to talk with the village grocer about his
 brother's statuary?"
+.pi
 
 "You mean that you'd buy it if it were worth anything?"
 
@@ -9721,20 +9747,23 @@ Very very busy with a brand new grave.
   He'll keep warm next winter.
 .pm poem-block-end
 
-<noindent>Mr. Cardan hummed the tune to himself cheerfully
+.ni
+Mr. Cardan hummed the tune to himself cheerfully
 enough. But his tough, knobbly face became so hard, so
 strangely still, an expression of such bitterness, such a
 profound melancholy, appeared in his winking and his
 supercilious eye that it would have startled and frightened
 a man to look at him. But there was nobody in that
 deepening twilight to see him. He sat there alone.
+.pi
 
 .pm poem-block-start
 At the local cemetery they are
 Very very busy with a brand new grave....
 .pm poem-block-end
 
-<noindent>He went on humming. "If I were to fall sick," he was
+.ni
+He went on humming. "If I were to fall sick," he was
 thinking, "who would look after me? Suppose one were
 to have a stroke. Hemorrhage on the brain; partial paralysis;
 mumbling speech; the tongue couldn't utter what the
@@ -9746,16 +9775,19 @@ charity; 'Poor old Cardan, done for, I'm afraid; must
 send the old chap a fiver--hasn't a penny, you know; get
 up a subscription; what a bore; astonishing that he can
 last so long....'"
+.pi
 
 .pm poem-block-start
 He'll keep warm next winter.
 .pm poem-block-end
 
-<noindent>The tune ended on a kind of trumpet call, rising from
+.ni
+The tune ended on a kind of trumpet call, rising from
 the dominant to the tonic--one dominant, three repeated
 tonics, drop down again to the dominant and then on the
 final syllable of "winter" the last tonic. Finis, and no
 <i><lang=it>da capo</lang></i>, no second movement.
+.pi
 .bn 231.png
 .pn +1
 
@@ -11101,10 +11133,12 @@ What every weakness, every vice?
 Tom Cardan, all were thine.
 .pm poem-block-end
 
-<noindent>All the same, there were certain things the doing of which
+.ni
+All the same, there were certain things the doing of which
 one felt to be an outrage. Still, one had to think of those
 seventeen hundred and fifty pounds; one had to think
 of old age in solitude and poverty.
+.pi
 
 Leaving Miss Elver to play by herself in the garden,
 Mr. Cardan went indoors. He found his host sitting
@@ -14329,9 +14363,11 @@ Ein Mohr aus Bosheit und Pläsier
 Schiesst auf das Elefantentier.
 .pm poem-block-end
 
-<noindent>With his little arrow he punctures the placid pachyderm;
+.ni
+With his little arrow he punctures the placid pachyderm;
 and the pachyderm takes his revenge, elaborately, through
 fourteen subsequent woodcuts.
+.pi
 
 My only excuse--the recentness of that ludicrous catastrophe
 with which the tragedy of Barbara had concluded--was
