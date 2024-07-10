@@ -39,6 +39,10 @@
 
 .de div.linegroup {margin-top:1em;}
 
+.de .transcribers-notes { width: 80%; margin: auto; padding: 0 1em; \
+background-color: #E3E4FA; border: 1px solid silver; }
+
+
 // Front matter
 
 .bn 001.png
@@ -17024,3 +17028,30 @@ reassured.
 .sp 2
 .ce
 THE END
+
+// End of main text
+
+// Transcriber's Notes
+
+.dv class="transcribers-notes"
+.ce
+<b>Transcriber’s Notes</b>
+
+.if t
+This file uses <i>underscores</i> to indicate italic text and <b>equals signs</b>
+to indicate bold text.
+.if-
+
+Itemized changes from the original text:
+.ul
+.it #p. 9:Page_9#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
+.it #p. 78:Page_78#: changed “that” to “than” (that's easier said than done)
+.it #p. 85:Page_85#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
+.it #p. 181:Page_181#: changed “you” to “your” (I've always ... admired your work)
+.it #p. 220:Page_220#: changed “Its” to “It's” (It's 'amusing'--isn't that the word?)
+.it #p. 253:Page_253#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
+.it #p. 309:Page_309#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
+.it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keate)
+.ul-
+
+.dv-
