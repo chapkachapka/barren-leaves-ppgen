@@ -39,6 +39,9 @@
 
 .de div.linegroup {margin-top:1em;}
 
+.de .centered-div {max-width:fit-content; \
+margin-left:auto;margin-right:auto;}
+
 .de .transcribers-notes { width: 80%; margin: auto; padding: 0 1em; \
 background-color: #E3E4FA; border: 1px solid silver; }
 
@@ -123,11 +126,33 @@ THOSE||BARREN LEAVES
 <l>BY ALDOUS HUXLEY</l>
 .sp 4
 
-.nf c
-NEW <img height="50" width="50" src="images/gdh-logo.png"/> YORK
-GEORGE H. DORAN COMPANY
-.nf-
 
+
+// Publisher logo line (surprisingly complicated)
+
+.nr psb 0
+
+.if t
+.ce 2
+NEW [GHD] YORK
+GEORGE H. DORAN COMPANY
+.if-
+
+.if h
+.dv class="centered-div"
+NEW
+<img height="50" width="50" src="images/gdh-logo.png"/>
+YORK
+.dv-
+.dv class="centered-div"
+GEORGE H. DORAN COMPANY
+.dv-
+.if-
+
+
+.nr psb 1.0em
+
+// End publisher logo line
 
 
 .pb
