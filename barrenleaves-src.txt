@@ -8,6 +8,8 @@
 
 // Macros
 
+// - poetry blocks
+
 .dm poem-block-start
 .nf b
 .dm-
@@ -16,14 +18,24 @@
 .nf-
 .dm-
 
-.dm drop-cap
-.dc 0.15 0.75
+// - Drop capitals
+
+.dm drop-start
+.dc 0.15 0.65
+.if h
+<span class="uppercase">
+.if-
+.dm-
+
+.dm drop-end
+.if h
+</span>
+.if-
 .dm-
 
 // Class definitions
 
 .de .uppercase {text-transform:uppercase;}
-
 
 // Front matter
 
@@ -184,8 +196,10 @@ V: CONCLUSIONS | #359:part-5#
 CHAPTER I
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">The</span> little town of Vezza stands at the confluence of
+.pm drop-start
+The
+.pm drop-end
+little town of Vezza stands at the confluence of
 two torrents that come down in two deep valleys
 from the Apuan mountains. Turbulently--for they still
 remember their mountain source--the united streams run
@@ -683,8 +697,10 @@ pearls, though not marine, were still rather an embarrassment.
 CHAPTER II
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Mrs. Aldwinkle</span>, when she returned, found them
+.pm drop-start
+Mrs. Aldwinkle
+.pm drop-end
+, when she returned, found them
 on the upper terrace, looking at the view. It was
 almost the hour of sunset. The town of Vezza at their
 feet was already eclipsed by the shadow of the great bluff
@@ -1066,8 +1082,10 @@ Calamy about Pasquale da Montecatini.
 CHAPTER III
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Dinner<span> was served in the Saloon of the Ancestors.<special>
+.pm drop-start
+Dinner
+.pm drop-end
+ was served in the Saloon of the Ancestors.<special>
 
 </special>In Mrs. Aldwinkle's enthusiastic imagination what
 marvellous symposia had been held within those walls--centuries
@@ -1875,8 +1893,10 @@ us go out into the garden," she said.
 CHAPTER IV
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Mrs. Aldwinkle</span> had even bought the stars.
+.pm drop-start
+Mrs. Aldwinkle
+.pm drop-end
+ had even bought the stars.
 
 "How bright they are!" she exclaimed, as she
 stepped out at the head of her little troop of guests on to
@@ -2305,8 +2325,10 @@ begins sobbing and laughing at the same time.
 CHAPTER V
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">The</span> black silhouette that on the terrace had so perfunctorily
+.pm drop-start
+The
+.pm drop-end
+ black silhouette that on the terrace had so perfunctorily
 symbolised Mr. Cardan transformed itself
 as he entered the lamp-lit saloon into the complete
 and genial man. His red face twinkled in the light; he
@@ -2568,8 +2590,10 @@ agreeable.
 CHAPTER VI
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">To</span> be torn between divided allegiances is the painful
+.pm drop-start
+To
+.pm drop-end
+ be torn between divided allegiances is the painful
 fate of almost every human being. Pull devil, pull
 baker; pull flesh, pull spirit; pull love, pull duty; pull
 reason and pull hallowed prejudice. The conflict, in its
@@ -2827,8 +2851,10 @@ gave the word to go indoors.
 CHAPTER VII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">To</span> say good-night definitely and for the last time
+.pm drop-start
+To
+.pm drop-end
+ say good-night definitely and for the last time
 was a thing which Mrs. Aldwinkle found most
 horribly difficult. With those two fatal words she pronounced
 sentence of death on yet another day (on yet
@@ -3290,8 +3316,10 @@ bed?"
 CHAPTER VIII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">To</span> Irene fell the privilege every evening of brushing
+.pm drop-start
+To
+.pm drop-end
+ Irene fell the privilege every evening of brushing
 her aunt's hair. For her these midnight moments
 were the most precious in the day. True, it was sometimes
 an agony for her to keep awake and the suppression
@@ -3578,8 +3606,10 @@ brushing.
 CHAPTER IX
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">In</span> the silence and solitude of her room, Miss Thriplow
+.pm drop-start
+In
+.pm drop-end
+ the silence and solitude of her room, Miss Thriplow
 sat up for a long time, pen in hand, in front of an
 open note-book. "Darling Jim," she wrote, "darling Jim.
 To-day you came back to me so suddenly and unexpectedly
@@ -3707,8 +3737,10 @@ canoe together and nearly got drowned?..."
 CHAPTER I
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Old</span> gentlemen in clubs were not more luxuriously
+.pm drop-start
+Old
+.pm drop-end
+ gentlemen in clubs were not more luxuriously
 cradled than I along the warm Tyrrhenian. Arms
 outstretched, like a live cross, I floated face upwards on
 that blue and tepid sea. The sun beat down on me, turning
@@ -4313,8 +4345,10 @@ I repeat, at the very heart of it, the palpitating heart.
 CHAPTER II
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Gog's Court</span>, the navel of reality! Repeating
+.pm drop-start
+Gog's Court
+.pm drop-end
+, the navel of reality! Repeating
 those verses of mine in the silence, I intimately felt
 the truth of it.
 
@@ -4667,8 +4701,10 @@ a prolonged silence.
 CHAPTER III
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">I remember</span> an advertisement--for some sort of
+.pm drop-start
+I remember
+.pm drop-end
+ an advertisement--for some sort of
 cough drops I think it was--which used to figure very
 largely in my boyhood on the back covers of the illustrated
 weeklies. Over the legend, "A Pine Forest in
@@ -5314,8 +5350,10 @@ only five years old.
 CHAPTER IV
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">At</span> five years old, among other things, I used to write
+.pm drop-start
+At
+.pm drop-end
+ five years old, among other things, I used to write
 poems which my mother thoroughly and whole-*heartedly
 enjoyed. There was one about larks which
 she still preserves, along with the locks of my pale childish
@@ -5450,8 +5488,10 @@ not matter a pin. Still, I insist. I insist....
 CHAPTER V
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"Quite</span> the little poet"--how bitterly poor Keats
+.pm drop-start
+"Quite
+.pm drop-end
+ the little poet"--how bitterly poor Keats
 resented the remark. Perhaps because he secretly
 knew that it was just. For Keats, after all, was that
 strange, unhappy chimaera--a little artist and a large
@@ -6774,8 +6814,10 @@ Barbara shook her head. "I wish I could," she said.
 CHAPTER VI
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Such</span>, then, were the phantoms that my recitation
+.pm drop-start
+Such
+.pm drop-end
+, then, were the phantoms that my recitation
 called up to dance on the surface of the Tyrrhenian.
 Salutarily they reminded me that I was only on my holiday,
 that the landscape in the midst of which I was now
@@ -7311,8 +7353,10 @@ Rolls Royce. There was no escape.
 CHAPTER VII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">No</span> escape.... But I was still tipsy enough not
+.pm drop-start
+No
+.pm drop-end
+ escape.... But I was still tipsy enough not
 seriously to desire escape. My premonition of
 sobriety had been no more than a momentary flash. It
 came and it passed again, almost immediately, as I became
@@ -7772,8 +7816,10 @@ to suffocate the poor fellow?"
 CHAPTER I
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Do</span> all he could, Lord Hovenden had somehow found
+.pm drop-start
+Do
+.pm drop-end
+ all he could, Lord Hovenden had somehow found
 it impossible, these last few days, to get Irene for
 a moment to himself. The change had come about almost
 suddenly, just after that fellow Chelifer had made his
@@ -8280,8 +8326,10 @@ shocked.
 CHAPTER II
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"We</span> two," said Mr. Cardan one late afternoon some
+.pm drop-start
+"We
+.pm drop-end
+ two," said Mr. Cardan one late afternoon some
 fortnight after Chelifer's arrival, "we two seem
 to be rather left out of it."
 
@@ -8425,8 +8473,10 @@ to listen. Boomingly, Mr. Falx played his prophetic part.
 CHAPTER III
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">It</span> was a pity that Mr. Cardan could not hear what his
+.pm drop-start
+It
+.pm drop-end
+ was a pity that Mr. Cardan could not hear what his
 hostess was saying. He would have been delighted;
 she was talking about herself. It was a subject on which
 he specially loved to hear her. There were few people,
@@ -8801,8 +8851,10 @@ she said. But she was not really angry with him.
 CHAPTER IV
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"Why</span> have you been so funny all vese days?" Lord
+.pm drop-start
+"Why
+.pm drop-end
+ have you been so funny all vese days?" Lord
 Hovenden had at last brought himself to put the
 long-premeditated question.
 
@@ -9004,8 +9056,10 @@ from his feet.
 CHAPTER V
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"When</span> the butcher's boy tells you in confidence,
+.pm drop-start
+"When
+.pm drop-end
+ the butcher's boy tells you in confidence,
 and with an eye to a tip, that the grocer's brother
 has a very fine piece of very old sculpture which he is
 prepared to part with for a moderate consideration, what
@@ -9578,8 +9632,10 @@ Cardan's silence seemed more ironic than any words.
 CHAPTER VI
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">The</span> sun had set. Against a pale green sky the blue
+.pm drop-start
+The
+.pm drop-end
+ sun had set. Against a pale green sky the blue
 and purple mountains lifted a jagged silhouette.
 Mr. Cardan found himself alone in the middle of the flat
 plain at their feet. He was standing on the bank of a
@@ -9967,8 +10023,10 @@ Mr. Elver said nothing, but scowled at the floor.
 CHAPTER VII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">The</span> dining-room was also large and bare. Four
+.pm drop-start
+The
+.pm drop-end
+ dining-room was also large and bare. Four
 candles burned on the long narrow table; their
 golden brightness faded in the remoter corners to faint
 twilight; the shadows were huge and black. Entering,
@@ -10681,8 +10739,10 @@ his own busy thoughts, were responsible for his wakefulness.
 CHAPTER VIII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Next</span> morning Mr. Cardan was down early. The
+.pm drop-start
+Next
+.pm drop-end
+ morning Mr. Cardan was down early. The
 first thing he saw in the desolate garden before the
 house was Miss Elver. She was dressed in a frock cut
 on the same sack-like lines as her last night's dress, but
@@ -11117,8 +11177,10 @@ rage, "a damned stinking bully."
 CHAPTER IX
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Early</span> the next morning Mr. Cardan and his hostess
+.pm drop-start
+Early
+.pm drop-end
+ the next morning Mr. Cardan and his hostess
 left the house and walked rapidly away through the
 fields in the direction of the lake. They had told the old
 woman that they would be back to a late breakfast. Mr.
@@ -11270,8 +11332,10 @@ and twenty thousand pounds.
 CHAPTER X
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Mr. Cardan</span> returned to the palace of the Cybo
+.pm drop-start
+Mr. Cardan
+.pm drop-end
+ returned to the palace of the Cybo
 Malaspina to find that the number of guests had
 been increased during his absence by the arrival of Mrs.
 Chelifer. Mrs. Aldwinkle had not been particularly
@@ -11504,8 +11568,10 @@ to Mrs. Chelifer.
 CHAPTER XI
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">It</span> was night. Half undressed, Irene was sitting on the
+.pm drop-start
+It
+.pm drop-end
+ was night. Half undressed, Irene was sitting on the
 edge of her bed stitching away at an unfinished garment
 of pale pink silk. Her head was bent over her work
 and her thick hair hung perpendicularly down on either
@@ -11685,8 +11751,10 @@ discussed the interesting possibility.
 CHAPTER XII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Miss Thriplow</span> was writing in her secret note-book.
+.pm drop-start
+Miss Thriplow
+.pm drop-end
+ was writing in her secret note-book.
 "There are people," she wrote, "who seem
 to have no capacity for feeling deeply or passionately
 about anything. It is a kind of emotional impotence for
@@ -11894,8 +11962,10 @@ more and intenser sensations to record in the future.
 CHAPTER XIII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Calamy</span> lay on his back, quite still, looking up into
+.pm drop-start
+Calamy
+.pm drop-end
+ lay on his back, quite still, looking up into
 the darkness. Up there, he was thinking, so near
 that it's only a question of reaching out a hand to draw
 back the curtaining darkness that conceals it, up there,
@@ -12091,8 +12161,10 @@ room.
 CHAPTER I
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Lord Hovenden</span> detached from his motor car was
+.pm drop-start
+Lord Hovenden
+.pm drop-end
+ detached from his motor car was
 an entirely different being from the Lord Hovenden
 who lounged with such a deceptive air of languor behind
 the steering-wheel of a Vauxhall Velox. Half an hour
@@ -12740,8 +12812,10 @@ too, but in a different way.
 CHAPTER II
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Time</span> and space, matter and mind, subject, object--how
+.pm drop-start
+Time
+.pm drop-end
+ and space, matter and mind, subject, object--how
 inextricably they got mixed, next day, on the
 road to Rome! The simple-minded traveller who imagines
 himself to be driving quietly through Umbria and
@@ -12952,8 +13026,10 @@ dim and blue against the blue of the sky.
 CHAPTER III
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">From</span> the heights of the Pincio Mr. Falx denounced
+.pm drop-start
+From
+.pm drop-end
+ the heights of the Pincio Mr. Falx denounced
 the city that lay spread out below him.
 
 "Marvellous, isn't it?" Mrs. Aldwinkle had said.
@@ -13198,8 +13274,10 @@ not even take the trouble to listen.
 CHAPTER IV
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">Mr. Falx</span> had expected to find no difficulty, once
+.pm drop-start
+Mr. Falx
+.pm drop-end
+ had expected to find no difficulty, once
 they were arrived in Rome, in recalling his pupil
 to what he considered a better and more serious frame of
 mind. In the bracing atmosphere of an International
@@ -13471,8 +13549,11 @@ seemed preoccupied.
 CHAPTER V
 .sp 2
 
-.pm drop-cap
-<special>"<i><lang=ett>An pris caruns flucuthukh</lang></i>";</special> Mr. Cardan beckoned to
+<special>
+.pm drop-start
+<i>“An</i>
+.pm drop-end
+<i><lang=ett>pris caruns flucuthukh</lang></i>”; Mr. Cardan beckoned to
 the guide. "Bring the lamp a little nearer," he
 said in Italian, and when the light had been approached,
 he went on slowly spelling out the primitive Greek writing
@@ -13490,7 +13571,7 @@ real linguistic genius, those creatures. What poets they
 must have produced! 'When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
 <i><lang=ett>ziz</lang></i>'--one can imagine the odes in praise of wine which
 began like that. You couldn't bring together eight such
-juicy, boozy syllables as that in English, could you?"
+juicy, boozy syllables as that in English, could you?"</special>
 
 "What about 'Ale in a Saxon rumkin then'?" suggested
 Chelifer.
@@ -13936,8 +14017,10 @@ and here I am." He looked up again, smiling.
 CHAPTER VI
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"But</span> at Montefiascone," said Mr. Cardan, concluding
+.pm drop-start
+"But
+.pm drop-end
+ at Montefiascone," said Mr. Cardan, concluding
 the history of the German bishop who gave the
 famous wine of Montefiascone its curious name, "at
 Montefiascone Bishop Defuk's servant found good wine
@@ -14154,8 +14237,10 @@ CHAPTER VII
 <l><i>Selections from Francis Chelifer</i></l>
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">In</span> the sporting calendar the most interesting events are
+.pm drop-start
+In
+.pm drop-end
+ the sporting calendar the most interesting events are
 booked for the autumnal months. There is no hunting
 in the spring. And even in Italy there is a brief close
 season for song-birds that lasts from the coming of the
@@ -14615,8 +14700,10 @@ vain.
 CHAPTER VIII
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">From</span> the first nobody put very much faith in the local
+.pm drop-start
+From
+.pm drop-end
+ the first nobody put very much faith in the local
 doctor; the mere look of him was enough to inspire
 mistrust. But when across the patient's prostrate and
 comatose body he chattily confided that he had taken his
@@ -14761,8 +14848,10 @@ again. She had not taken long to find her Roman occupation.
 CHAPTER IX
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">The</span> funeral was not due to take place before sunset.
+.pm drop-start
+The
+.pm drop-end
+ funeral was not due to take place before sunset.
 The bearers, the choristers, the sexton, the priest
 himself, most likely, were all in the fields, picking the
 grapes. They had something more important to do, while
@@ -15008,8 +15097,10 @@ paid.
 CHAPTER I
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">"What</span> are you thinking of?"
+.pm drop-start
+"What
+.pm drop-end
+ are you thinking of?"
 
 "Nothing," said Calamy.
 
@@ -15466,8 +15557,10 @@ like one who has been tortured on the rack.
 CHAPTER II
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">On</span> their return, somewhat low-spirited, from Montefiascone,
+.pm drop-start
+On
+.pm drop-end
+ their return, somewhat low-spirited, from Montefiascone,
 Mrs. Aldwinkle and her party found Mary
 Thriplow alone in the palace.
 
@@ -15810,8 +15903,10 @@ ticked away as busily as ever.
 CHAPTER III
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">In</span> the course of the last few days the entries in Miss
+.pm drop-start
+In
+.pm drop-end
+ the course of the last few days the entries in Miss
 Thriplow's note-book had changed their character.
 From being amorous they had turned mystical. Savage
 and mindless passion was replaced by quiet contemplation.
@@ -16064,8 +16159,10 @@ had fallen into a profound and tranquil sleep.
 CHAPTER IV
 .sp 2
 
-.pm drop-cap
-<span class="uppercase">It</span> had been raining, stormily; but now the wind had
+.pm drop-start
+It
+.pm drop-end
+ had been raining, stormily; but now the wind had
 fallen and between the heavy clouds the sun was
 brightly shining. The yellowing chestnut trees stood
 motionless in the still bright air, glittering with moisture.
