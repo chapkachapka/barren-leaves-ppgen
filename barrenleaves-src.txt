@@ -10,7 +10,7 @@
 
 // Macros
 
-// - poetry blocks
+// poetry blocks
 
 .dm poem-block-start
 .nf b
@@ -20,7 +20,7 @@
 .nf-
 .dm-
 
-// - Drop capitals
+// Drop capitals
 
 .dm drop-start
 .dc 0.15 0.65
@@ -57,9 +57,9 @@ background-color: #E3E4FA; border: 1px solid silver; }
 .sr h §@dl2@§</span><span>§
 .sr h §@dl3@§</span>§
 
-// End header
+// End of Header
 
-// Front matter
+// Front Matter
 
 .bn 001.png
 
@@ -217,7 +217,7 @@ V: CONCLUSIONS | #359:part-5#
 .nr psi .5em
 .nr psb .5em
 
-// Beginning of main text
+// Main Text
 
 .pb
 .bn 007.png
@@ -17071,7 +17071,7 @@ reassured.
 .ce
 THE END
 
-// End of main text
+// End of Main Text
 
 // Transcriber’s Notes
 
