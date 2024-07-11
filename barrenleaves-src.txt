@@ -4,6 +4,8 @@
 // Author     : Aldous Huxley
 // Project ID : 60a1d88b1678a
 
+// Header
+
 .dt Those Barren Leaves | Project Gutenberg
 
 // Macros
@@ -42,9 +44,20 @@
 .de .centered-div {max-width:fit-content; \
 margin-left:auto;margin-right:auto;}
 
+.de span.dropped-line > span:first-child {vertical-align:100%;}
+
 .de .transcribers-notes { width: 80%; margin: auto; padding: 0 1em; \
 background-color: #E3E4FA; border: 1px solid silver; }
 
+// Regex
+
+// Build a three-part substitution model for dropped lines in poetry
+
+.sr h §@dl1@§<span class="dropped-line"><span class="a">§
+.sr h §@dl2@§</span><span>§
+.sr h §@dl3@§</span>§
+
+// End header
 
 // Front matter
 
@@ -4946,8 +4959,13 @@ perfume! Mentally I burst into song.
 These like remorse inveterate memories,
 Being of cabbage, are prophetic too
 Of future feasts, when Mrs. Cloudesley Shove
+.if t
 Will still recall lamented Cloudesley.
-                                        <special>Still</special>
+                                      Still
+.if-
+.if h
+@dl1@Will still recall lamented Cloudesley.@dl2@Still@dl3@
+.if-
 Among the moonlit cedars Philomel
 Calls back to mind, again, again,
 The ancient pain, the everlasting pain;
