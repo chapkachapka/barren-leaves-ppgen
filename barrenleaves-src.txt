@@ -677,7 +677,7 @@ painful at first. One feels as though one has been somehow
 .bn 019.png
 .pn +1
 swindled and done in. You remember what
-Beethoven said: 'that he seldom found in the playing of
+Beethoven said: ‘that he seldom found in the playing of
 the most distinguished virtuosi that excellence which he
 supposed he had a right to expect.’ One has a right to
 expect celebrated people to live up to their reputations;
@@ -730,7 +730,7 @@ now.”
 
 “I pictured you,” Miss Thriplow went on, straining, in
 spite of her obscurity, to be brilliant, “I pictured you as
-one of those people in the <cite>Sketch</cite>--'walking in the Park
+one of those people in the <cite>Sketch</cite>--‘walking in the Park
 with a friend,’ you know; a friend who would turn out
 at the least to be a duchess or a distinguished novelist.
 Can you wonder that I was nervous?” She dropped back
@@ -1448,9 +1448,9 @@ reminds me,” he went on after a little pause, “of another,
 similarly deep-rooted change that I can never account for:
 the change in our susceptibility to flattery. It’s impossible
 to read any ancient moralist without finding copious warnings
-against flatterers. 'A flattering mouth worketh ruin’--it’s
+against flatterers. ‘A flattering mouth worketh ruin’--it’s
 in the Bible. And the reward of the flatterer is also
-specified there. 'He that speaketh flattery to his friends,
+specified there. ‘He that speaketh flattery to his friends,
 even the eyes of his children shall fail’--though one would
 have thought that the vicariousness of the threatened punishment
 rendered it a little less formidable. But at any
@@ -1777,11 +1777,11 @@ Marneffe: the old beau of the empire and the young
 woman brought up on the Romantic Revival and early
 Victorian virtues. Let me see if I can remember it.” Mr.
 Cardan thoughtfully frowned, was silent for a moment,
-then proceeded in an almost flawless French. “'<lang=fr>Cet
+then proceeded in an almost flawless French. “‘<lang=fr>Cet
 homme de l’empire, habitué au genre empire, devait
 ignorer absolument les façons de l’amour moderne, les
 nouveaux scrupules, les différentes conversations inventées
-depuis 1830, et où la ”pauvre faible femme“ finit par
+depuis 1830, et où la “pauvre faible femme” finit par
 se faire considérer comme la victime des désirs de son
 amant, comme une sœur de charité qui panse des blessures,
 comme un ange qui se dévoue. Ce nouvel art d’aimer
@@ -1796,7 +1796,7 @@ caractère de notre temps a gangrené la galanterie.</lang>’ How
 sharp that is,” said Mr. Cardan, “how wide and how
 deep! Only I can’t agree with the sentiment expressed in
 the last sentence. For if, as he says, hypocrisy puts more
-ardour into the practice of love and more 'rage in the
+ardour into the practice of love and more ‘rage in the
 chutes,’ then it cannot be said to have gangrened gallantry.
 It has improved it, revivified it, made it interesting.
 Nineteenth-century hypocrisy was a concomitant of nineteenth-century
@@ -2401,7 +2401,7 @@ then it <em>is</em> warm enough. We’ve already proved ourselves
 fools by wanting to go indoors; if we brought her a
 shawl, we should become something worse than fools: we
 should be rude and impertinent, we should be giving her
-the lie. 'My dear Lilian,’ we’d be as good as saying, 'it
+the lie. ‘My dear Lilian,’ we’d be as good as saying, ‘it
 isn’t warm. And when you say that it is, you’re talking
 nonsense. So we have brought you your shawl.’ No,
 no, Miss Mary. You must surely see yourself that it
@@ -2579,7 +2579,7 @@ become a children’s book; a new illustrated edition is produced
 every Christmas. That’s what comes of saying
 profound things about humanity in terms of a fairy story.
 The publications of the Purity League figure invariably
-under the heading 'Curious’ in the booksellers’ catalogues.
+under the heading ‘Curious’ in the booksellers’ catalogues.
 The theological and, to Milton himself, the fundamental
 and essential part of <cite>Paradise Lost</cite> is now so ludicrous
 that we ignore it altogether. When somebody speaks of
@@ -3678,7 +3678,7 @@ Mr. Chigwell’s little shop at Weltringham. Why did you
 want to make me see you sitting in the barber’s chair, so
 stiff and grown-up, with the wheel of the mechanical
 brush still turning overhead and Mr. Chigwell saying,
-'Hair’s very dry, Mr. Thriplow’? And the rubber driving
+‘Hair’s very dry, Mr. Thriplow’? And the rubber driving
 band used always to remind me....” Miss Thriplow
 recorded the simile of the wounded snake which had
 first occurred to her this evening. There was no particular
@@ -4067,10 +4067,10 @@ Vezza to listen to this sort of thing?
 
 In a voice loud but indistinct, and strangely unmusical,
 the Chinese lantern lady began to quote Shelley, incorrectly.
-“'From peak to peak in a bridge-like ...’”
+“‘From peak to peak in a bridge-like ...’”
 she began, and relapsed into silence, clawing the air in
 search of the synonym for shape which ought to rhyme
-with peak. “'Over a something sea.’ I think <cite>The Cloud</cite>
+with peak. “‘Over a something sea.’ I think <cite>The Cloud</cite>
 .bn 100.png
 .pn +1
 is almost the loveliest of all. It’s wonderful to think that
@@ -4536,9 +4536,9 @@ when I was to be dressed down and put in my
 place his courtesy degenerated into a kind of affected girlish
 coquetry. “If you don’t mind my saying so, Mr.
 Chelifer,” he said mincingly, “I think you’ll find that
-<i><lang=es>rabear</lang></i> in Spanish does not mean 'to wag the tail,’ as you
-say in your leader on the derivation of the word 'rabbit,’
-so much as 'to wag the hind quarters.’”
+<i><lang=es>rabear</lang></i> in Spanish does not mean ‘to wag the tail,’ as you
+say in your leader on the derivation of the word ‘rabbit,’
+so much as ‘to wag the hind quarters.’”
 
 “Wag the hind quarters, Mr. Bosk?” I said. “But that
 sounds to me a very difficult feat.”
@@ -4555,7 +4555,7 @@ Bosk brought forward his left hand, which he had been
 keeping mysteriously behind his back. It held a dictionary;
 a strip of paper marked the page. Mr. Bosk
 laid it, opened, on the table before me; with a thick nail
-he pointed “'... or possibly,’ I read aloud, 'from Spanish
+he pointed “‘... or possibly,’ I read aloud, ‘from Spanish
 <i><lang=es>Rabear</lang></i>, to wag the hind quarters.’ Right as usual,
 Mr. Bosk. I’ll alter it in the proof.”
 
@@ -4695,13 +4695,13 @@ practical too, Mr. Chelifer? For instance,” and clearing
 his throat, he unfolded the typewritten sheet of complaints
 which he had had prepared and had brought with him
 to the board meeting, “for instance, what’s the practical
-value of this stuff about the use of the word 'cony’ as
+value of this stuff about the use of the word ‘cony’ as
 a term of endearment in the Elizabethan dramatists?
-And this article on the derivation of 'rabbit’”--he looked
+And this article on the derivation of ‘rabbit’”--he looked
 at his paper again and coughed. “Who wants to know
 .bn 115.png
 .pn +1
-that there’s a Walloon word '<lang=wa>robett</lang>'? Or that our word
+that there’s a Walloon word ‘<lang=wa>robett</lang>’? Or that our word
 may have something to do with the Spanish <i><lang=es>rabear</lang></i>, to
 wag the hind quarters? And who, by the way,” he
 added, looking up at me over his pince-nez with an air--prematurely
@@ -4714,7 +4714,7 @@ The managing director, who had hoped to score a point,
 went on, defeated, to the next count in the indictment.
 “And then, Mr. Chelifer,” he said, “we don’t very much
 like, my fellow directors and I, we don’t much like what
-you say in your article on 'Rabbit Fancying and its
+you say in your article on ‘Rabbit Fancying and its
 Lesson to Humanity.’ It may be true that breeders have
 succeeded in producing domesticated rabbits that are four
 times the weight of wild rabbits and possess only half
@@ -4734,7 +4734,7 @@ many of our readers actually belong to that class.”
 “Quite.” I acquiesced in the reproof.
 
 “And finally, Mr. Chelifer, there is your article on the
-'Symbology of the Goat.’ We feel that the facts you
+‘Symbology of the Goat.’ We feel that the facts you
 have there collected, however interesting to the anthropologist
 and the student of folk-lore, are hardly of a kind
 to be set before a mixed public like ours.”
@@ -5245,9 +5245,9 @@ dancers. My mother looked up over the top of the instrument;
 melodiously she inquired:
 
 “Which dance shall we have next, Mr. Toft?
-'Trenchmore’? Or 'Omnium Gatherum’? Or 'John,
-come kiss me now’? Or what do you say to 'Up tails
-all’? Or 'Rub her down with straw’? Or 'An old man’s
+‘Trenchmore’? Or ‘Omnium Gatherum’? Or ‘John,
+come kiss me now’? Or what do you say to ‘Up tails
+all’? Or ‘Rub her down with straw’? Or ‘An old man’s
 a bed full of bones’? Such an <i><lang=fr>embarras de richesse</lang></i>, isn’t
 there?”
 
@@ -5261,8 +5261,8 @@ voice.
 .bn 127.png
 .pn +1
 
-“Suppose we try 'Fading,’ Mrs. Chelifer,” he suggested.
-“'Fading is a fine dance’--you remember the
+“Suppose we try ‘Fading,’ Mrs. Chelifer,” he suggested.
+“‘Fading is a fine dance’--you remember the
 immortal words of the Citizen’s Wife in the <cite>Knight of
 the Burning Pestle</cite>? Ha ha!” And he gave utterance
 to a little laugh, applausive of his own wit. For to Mr.
@@ -5357,7 +5357,7 @@ smiling elegiacally.
 
 “Yes, and Pee Em for Philipp Emanuel Bach. And
 Madame Dudevant for George Sand, or, alternatively,
-I remember 'The Queen’s Monthly Nurse’--because
+I remember ‘The Queen’s Monthly Nurse’--because
 Dickens thought she looked like that the only time he
 saw her.” I recalled the long-drawn and delighted laughter
 which used to follow that allusion.
@@ -6844,7 +6844,7 @@ abusive word that can be applied to a woman. I felt, if
 anything, rather relieved. It pleased me to think that all
 was over, all was now definitely and for ever done with.
 
-“'Night, sir.”
+“’Night, sir.”
 
 It was the friendly policeman; I thought I heard an
 almost imperceptible note of amusement in his voice.
@@ -8460,7 +8460,7 @@ the most inordinate itch for power and notoriety, are
 always those who denounce most fiercely the corruptions
 of the age. One of the greatest triumphs of the nineteenth
 century was to limit the connotation of the word
-'immoral’ in such a way that, for practical purposes, only
+‘immoral’ in such a way that, for practical purposes, only
 those were immoral who drank too much or made too
 copious love. Those who indulged in any or all of the
 other deadly sins could look down in righteous indignation
@@ -9191,7 +9191,7 @@ And though I have struggled and struggled and strove,
   I cannot get out of them yet.
 There’s nothing but money can cure me
   And ease me of all my pain;
-'Twill pay all my debts and remove all my lets,
+’Twill pay all my debts and remove all my lets,
 And my mistress who cannot endure me
   Will turn to and love me again,
   Will turn to and love me again.
@@ -9361,7 +9361,7 @@ great Jesuit church, stands d’Annunzio.”
 
 “I should have thought,” said Miss Thriplow with
 barbed ingenuousness, “that you’d have liked that sort of
-elaboration and virtuosity. It’s 'amusing’--isn’t that the
+elaboration and virtuosity. It’s ‘amusing’--isn’t that the
 word?”
 
 “True,” answered Mr. Cardan, “I like being amused.
@@ -9789,7 +9789,7 @@ little song go?
 
 .pm poem-block-start
 More work for the undertaker,
-'Nother little job for the coffin-maker.
+’Nother little job for the coffin-maker.
 At the local cemetery they are
 Very very busy with a brand new grave.
   He’ll keep warm next winter.
@@ -9819,7 +9819,7 @@ brain thought; one was fed like a baby; clysters; such a
 bright doctor, rubbing his hands and smelling of disinfectant
 and eau-de-Cologne; saw nobody but the nurse;
 no friends; or once a week, perhaps, for an hour, out of
-charity; 'Poor old Cardan, done for, I’m afraid; must
+charity; ‘Poor old Cardan, done for, I’m afraid; must
 send the old chap a fiver--hasn’t a penny, you know; get
 up a subscription; what a bore; astonishing that he can
 last so long....’”
@@ -10356,7 +10356,7 @@ had to be to insolent underlings, strong in their office
 and only too delighted to have an opportunity to play
 the bully in their turn! And then there was that terrible
 cheerful, frank, manly manner one had to keep up all the
-time. The 'I put it to you, sir,’ straight from the shoulder
+time. The ‘I put it to you, sir,’ straight from the shoulder
 business; the persuasive honesty, the earnestness and
 the frightful pretence one had to keep up so strenuously
 and continuously that one believed in what one was talking
@@ -10773,8 +10773,8 @@ nature,” said Mr. Cardan.
 “It’s in Dante, you know. My father brought us up
 on Dante; I loathed the stuff,” he added, as though it
 had been castor oil. “But things stuck in my mind. Do
-you remember the woman who tells how she died: '<i><lang=it>Siena
-mi fe’, disfecemi Maremma</lang></i>'? Her husband shut her up
+you remember the woman who tells how she died: ‘<i><lang=it>Siena
+mi fe’, disfecemi Maremma</lang></i>’? Her husband shut her up
 in a castle in the Maremma and she died of fever. Do
 you remember?”
 
@@ -10866,8 +10866,8 @@ run away. Now you look lovely.”
 The dog took the hint and trotted off, waving his
 flower-tipped tail.
 
-Mr. Cardan stepped forward. “'Neat but not gaudy,’”
-he quoted, “'genteel but not expensive, like the gardener’s
+Mr. Cardan stepped forward. “‘Neat but not gaudy,’”
+he quoted, “‘genteel but not expensive, like the gardener’s
 dog with a primrose tied to his tail.’ Good-morning.”
 He took off his hat.
 
@@ -11210,7 +11210,7 @@ and averted his eyes. He said nothing.
 Mr. Cardan drew up a chair and sat down. “There’s
 a most interesting little book,” he said, looking at his host
 with a genial twinkling expression, “by a certain Mr.
-W. H. S. Jones called 'Malaria: a factor in the history
+W. H. S. Jones called ‘Malaria: a factor in the history
 of Greece and Rome,’ or some such title. He shows how
 the disease may quite suddenly obtain a footing in countries
 hitherto immune and in the course of a few generations
@@ -11247,7 +11247,7 @@ bully,” he whispered in a passion of misery and futile
 rage, “a damned stinking bully.”
 
 “Come, come,” said Mr. Cardan. “I protest against
-'stinking.’”
+‘stinking.’”
 .bn 263.png
 .pn +1
 
@@ -11514,7 +11514,7 @@ declared. “If only one could be born like that!” There
 had been a time, not so long ago, when she had aspired
 to be one of Nature’s Guardswomen. “I never knew that
 anything so good and dove-coloured existed outside of
-Academy subject-pictures of 1880. You know: 'A Pilgrim
+Academy subject-pictures of 1880. You know: ‘A Pilgrim
 Mother on Board the Mayflower,’ or something of
 that sort. It’s absurd in the Academy. But it’s lovely in
 real life.”
@@ -13325,7 +13325,7 @@ this distance every tune sounded exactly the same. Suddenly,
 from the band-stand of the tea-garden a pianist,
 .bn 313.png
 .pn +1
-two fiddlers and a 'cellist began to play the Pilgrims’
+two fiddlers and a ’cellist began to play the Pilgrims’
 Chorus out of <cite>Tannhäuser</cite>.
 
 Irene and Lord Hovenden, locked in one another’s
@@ -13650,12 +13650,12 @@ more appropriate that is than Bacchus, or Liber,
 or Dionysos! Fufluns, <em>Fufluns</em>,” he repeated with delighted
 emphasis. “It couldn’t be better. They had a
 real linguistic genius, those creatures. What poets they
-must have produced! 'When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
-<i><lang=ett>ziz</lang></i>'--one can imagine the odes in praise of wine which
+must have produced! ‘When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
+<i><lang=ett>ziz</lang></i>’--one can imagine the odes in praise of wine which
 began like that. You couldn’t bring together eight such
 juicy, boozy syllables as that in English, could you?”
 
-“What about 'Ale in a Saxon rumkin then’?” suggested
+“What about ‘Ale in a Saxon rumkin then’?” suggested
 Chelifer.
 
 Mr. Cardan shook his head. “It doesn’t compare with
@@ -13667,8 +13667,8 @@ talking about soda water.”
 Etruscan may mean soda water. Fufluns, I grant you,
 is apposite. But perhaps it was just a fluke. You have
 no evidence to show that they fitted sound to sense so
-aptly in other words. 'When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
-<i><lang=ett>ziz</lang></i>’ may be the translation of 'When Bacchus drowns
+aptly in other words. ‘When Fufluns <i><lang=ett>flucuthukhs</lang></i> the
+<i><lang=ett>ziz</lang></i>’ may be the translation of ‘When Bacchus drowns
 the hock with soda.’ You don’t know.”
 .bn 321.png
 .pn +1
@@ -13783,8 +13783,8 @@ drinking, playing, making love. What else could you
 expect them to do? This writing will tell us no more
 than we know already. True, I want to know what it
 means, but only because I hope that the brown man may
-be saying to the white lady: '<i><lang=ett>Flucuthukh</lang></i> to me only with
-thine eyes,’ or words to that effect, 'and I will <i><lang=ett>flucuthukh</lang></i>
+be saying to the white lady: ‘<i><lang=ett>Flucuthukh</lang></i> to me only with
+thine eyes,’ or words to that effect, ‘and I will <i><lang=ett>flucuthukh</lang></i>
 with mine.’ If that was what they really were saying,
 it would throw an entirely new light on the notion of
 drinking. An entirely new light.”
@@ -13795,7 +13795,7 @@ are,” said Mrs. Aldwinkle mournfully.
 “Wouldn’t it?” Mr. Cardan queried. “But imagine if
 <i><lang=ett>flucuthukh</lang></i> turned out to mean, not drink, but love. I
 assure you that the feelings denoted by such a word
-would be quite different from those we sum up by 'love.’
+would be quite different from those we sum up by ‘love.’
 .bn 324.png
 .pn +1
 You can make a good guess from the sound of the word
@@ -14115,7 +14115,7 @@ For life--but he drank so much that in a very short time
 it turned out that he had settled here for death. They
 buried him in the lower church, down there. On his
 tombstone his servant engraved the Bishop’s portrait with
-this brief epitaph. '<i><lang=la>Est Est Jo Defuk. Propter nimium
+this brief epitaph. ‘<i><lang=la>Est Est Jo Defuk. Propter nimium
 hic est. Dominus meus mortuus est.</lang></i>’ Since when the
 wine has always been called Est Est Est. We’ll have a
 flask of it dry for serious drinking. And for the frivolous
@@ -14211,9 +14211,9 @@ civilisation. The three words from Shakespeare’s language
 that have a completely universal currency are Bar,
 Sport and W.C. They’re all just as good Finnish now
 as they are good English. Each of these words possesses
-what I may call a family. Round the idea 'Bar’ group
+what I may call a family. Round the idea ‘Bar’ group
 themselves various other international words, such as
-Bitter, Cocktail, Whiskey and the like. 'Sport’ boasts
+Bitter, Cocktail, Whiskey and the like. ‘Sport’ boasts
 a large family--Match, for example, Touring Club, the
 verb to Box, Cycle-Car, Performance (in the sporting
 sense) and various others. The idea of hydraulic sanitation
@@ -16886,7 +16886,7 @@ life and death to undertake the search.”
 “Hm,” said Mr. Cardan. “And what will happen at
 the end of three months’ chaste meditation when some
 lovely young temptation comes toddling down this road,
-'balancing her haunches,’ as Zola would say, and rolling
+‘balancing her haunches,’ as Zola would say, and rolling
 the large black eye? What will happen to your explorations
 of the inward universe then, may I ask?”
 
@@ -17090,7 +17090,7 @@ Itemized changes from the original text:
 .it #p. 78:Page_78#: changed “that” to “than” (that’s easier said than done)
 .it #p. 85:Page_85#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
 .it #p. 181:Page_181#: changed “you” to “your” (I’ve always ... admired your work)
-.it #p. 220:Page_220#: changed “Its” to “It’s” (It’s 'amusing’--isn’t that the word?)
+.it #p. 220:Page_220#: changed “Its” to “It’s” (It’s ‘amusing’--isn’t that the word?)
 .it #p. 253:Page_253#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
 .it #p. 309:Page_309#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
 .it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keate)
