@@ -1135,9 +1135,8 @@ CHAPTER III
 .pm drop-start
 Dinner
 .pm drop-end
-was served in the Saloon of the Ancestors.<special>
-
-</special>In Mrs. Aldwinkle’s enthusiastic imagination what
+was served in the Saloon of the Ancestors.
+In Mrs. Aldwinkle’s enthusiastic imagination what
 marvellous symposia had been held within those walls--centuries
 even before they were built--what intellectual
 feasts! Aquinas, here, had confided to an early Malaspina
@@ -13853,7 +13852,7 @@ for love--what then? <i><lang=fr>Amour</lang></i> connotes lasciviousness,
 complex phenomenon of love can <i><lang=ett>flucuthukh</lang></i> refer? The
 microbe Staphylococcus pyogenes produces in some patients
 boils, in others sties in the eyes; in certain cases it
-is even responsible for <special><i>keratitis punctata</i></special>. It is the same
+is even responsible for <i>keratitis punctata</i>. It is the same
 with love. The symptoms vary in different individuals.
 But owing to the boundless suggestibility and imitativeness
 of man, the commonest symptoms at any given period
@@ -16615,7 +16614,7 @@ Chelifer laughed good-humouredly. “Perhaps you’re
 right,” he said. “Though I must say I myself should
 have handed out the prize for sentimentality to those who
 regard what is commonly known as reality--the Harrow
-Road, for example, or the <special>Café de la Rotonde</special> in Paris--as
+Road, for example, or the Café de la Rotonde in Paris--as
 a mere illusion, who run away from it and devote their
 time and energy to occupations which Mr. Cardan sums
 up and symbolises in the word omphaloskepsis. Aren’t
