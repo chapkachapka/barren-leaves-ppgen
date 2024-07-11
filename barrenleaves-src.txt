@@ -1122,7 +1122,7 @@ CHAPTER III
 .pm drop-start
 Dinner
 .pm drop-end
- was served in the Saloon of the Ancestors.<special>
+was served in the Saloon of the Ancestors.<special>
 
 </special>In Mrs. Aldwinkle's enthusiastic imagination what
 marvellous symposia had been held within those walls--centuries
@@ -1933,7 +1933,7 @@ CHAPTER IV
 .pm drop-start
 Mrs. Aldwinkle
 .pm drop-end
- had even bought the stars.
+had even bought the stars.
 
 "How bright they are!" she exclaimed, as she
 stepped out at the head of her little troop of guests on to
@@ -2365,7 +2365,7 @@ CHAPTER V
 .pm drop-start
 The
 .pm drop-end
- black silhouette that on the terrace had so perfunctorily
+black silhouette that on the terrace had so perfunctorily
 symbolised Mr. Cardan transformed itself
 as he entered the lamp-lit saloon into the complete
 and genial man. His red face twinkled in the light; he
@@ -2630,7 +2630,7 @@ CHAPTER VI
 .pm drop-start
 To
 .pm drop-end
- be torn between divided allegiances is the painful
+be torn between divided allegiances is the painful
 fate of almost every human being. Pull devil, pull
 baker; pull flesh, pull spirit; pull love, pull duty; pull
 reason and pull hallowed prejudice. The conflict, in its
@@ -2891,7 +2891,7 @@ CHAPTER VII
 .pm drop-start
 To
 .pm drop-end
- say good-night definitely and for the last time
+say good-night definitely and for the last time
 was a thing which Mrs. Aldwinkle found most
 horribly difficult. With those two fatal words she pronounced
 sentence of death on yet another day (on yet
@@ -3358,7 +3358,7 @@ CHAPTER VIII
 .pm drop-start
 To
 .pm drop-end
- Irene fell the privilege every evening of brushing
+Irene fell the privilege every evening of brushing
 her aunt's hair. For her these midnight moments
 were the most precious in the day. True, it was sometimes
 an agony for her to keep awake and the suppression
@@ -3648,7 +3648,7 @@ CHAPTER IX
 .pm drop-start
 In
 .pm drop-end
- the silence and solitude of her room, Miss Thriplow
+the silence and solitude of her room, Miss Thriplow
 sat up for a long time, pen in hand, in front of an
 open note-book. "Darling Jim," she wrote, "darling Jim.
 To-day you came back to me so suddenly and unexpectedly
@@ -3779,7 +3779,7 @@ CHAPTER I
 .pm drop-start
 Old
 .pm drop-end
- gentlemen in clubs were not more luxuriously
+gentlemen in clubs were not more luxuriously
 cradled than I along the warm Tyrrhenian. Arms
 outstretched, like a live cross, I floated face upwards on
 that blue and tepid sea. The sun beat down on me, turning
@@ -4743,7 +4743,7 @@ CHAPTER III
 .pm drop-start
 I remember
 .pm drop-end
- an advertisement--for some sort of
+an advertisement--for some sort of
 cough drops I think it was--which used to figure very
 largely in my boyhood on the back covers of the illustrated
 weeklies. Over the legend, "A Pine Forest in
@@ -5392,7 +5392,7 @@ CHAPTER IV
 .pm drop-start
 At
 .pm drop-end
- five years old, among other things, I used to write
+five years old, among other things, I used to write
 poems which my mother thoroughly and whole-heartedly
 enjoyed. There was one about larks which
 she still preserves, along with the locks of my pale childish
@@ -5532,7 +5532,7 @@ CHAPTER V
 .pm drop-start
 "Quite
 .pm drop-end
- the little poet"--how bitterly poor Keats
+the little poet"--how bitterly poor Keats
 resented the remark. Perhaps because he secretly
 knew that it was just. For Keats, after all, was that
 strange, unhappy chimaera--a little artist and a large
@@ -7405,7 +7405,7 @@ CHAPTER VII
 .pm drop-start
 No
 .pm drop-end
- escape.... But I was still tipsy enough not
+escape.... But I was still tipsy enough not
 seriously to desire escape. My premonition of
 sobriety had been no more than a momentary flash. It
 came and it passed again, almost immediately, as I became
@@ -7868,7 +7868,7 @@ CHAPTER I
 .pm drop-start
 Do
 .pm drop-end
- all he could, Lord Hovenden had somehow found
+all he could, Lord Hovenden had somehow found
 it impossible, these last few days, to get Irene for
 a moment to himself. The change had come about almost
 suddenly, just after that fellow Chelifer had made his
@@ -8378,7 +8378,7 @@ CHAPTER II
 .pm drop-start
 "We
 .pm drop-end
- two," said Mr. Cardan one late afternoon some
+two," said Mr. Cardan one late afternoon some
 fortnight after Chelifer's arrival, "we two seem
 to be rather left out of it."
 
@@ -8527,7 +8527,7 @@ CHAPTER III
 .pm drop-start
 It
 .pm drop-end
- was a pity that Mr. Cardan could not hear what his
+was a pity that Mr. Cardan could not hear what his
 hostess was saying. He would have been delighted;
 she was talking about herself. It was a subject on which
 he specially loved to hear her. There were few people,
@@ -8909,7 +8909,7 @@ CHAPTER IV
 .pm drop-start
 "Why
 .pm drop-end
- have you been so funny all vese days?" Lord
+have you been so funny all vese days?" Lord
 Hovenden had at last brought himself to put the
 long-premeditated question.
 
@@ -9114,7 +9114,7 @@ CHAPTER V
 .pm drop-start
 "When
 .pm drop-end
- the butcher's boy tells you in confidence,
+the butcher's boy tells you in confidence,
 and with an eye to a tip, that the grocer's brother
 has a very fine piece of very old sculpture which he is
 prepared to part with for a moderate consideration, what
@@ -9692,7 +9692,7 @@ CHAPTER VI
 .pm drop-start
 The
 .pm drop-end
- sun had set. Against a pale green sky the blue
+sun had set. Against a pale green sky the blue
 and purple mountains lifted a jagged silhouette.
 Mr. Cardan found himself alone in the middle of the flat
 plain at their feet. He was standing on the bank of a
@@ -10089,7 +10089,7 @@ CHAPTER VII
 .pm drop-start
 The
 .pm drop-end
- dining-room was also large and bare. Four
+dining-room was also large and bare. Four
 candles burned on the long narrow table; their
 golden brightness faded in the remoter corners to faint
 twilight; the shadows were huge and black. Entering,
@@ -10805,7 +10805,7 @@ CHAPTER VIII
 .pm drop-start
 Next
 .pm drop-end
- morning Mr. Cardan was down early. The
+morning Mr. Cardan was down early. The
 first thing he saw in the desolate garden before the
 house was Miss Elver. She was dressed in a frock cut
 on the same sack-like lines as her last night's dress, but
@@ -11245,7 +11245,7 @@ CHAPTER IX
 .pm drop-start
 Early
 .pm drop-end
- the next morning Mr. Cardan and his hostess
+the next morning Mr. Cardan and his hostess
 left the house and walked rapidly away through the
 fields in the direction of the lake. They had told the old
 woman that they would be back to a late breakfast. Mr.
@@ -11400,7 +11400,7 @@ CHAPTER X
 .pm drop-start
 Mr. Cardan
 .pm drop-end
- returned to the palace of the Cybo
+returned to the palace of the Cybo
 Malaspina to find that the number of guests had
 been increased during his absence by the arrival of Mrs.
 Chelifer. Mrs. Aldwinkle had not been particularly
@@ -11636,7 +11636,7 @@ CHAPTER XI
 .pm drop-start
 It
 .pm drop-end
- was night. Half undressed, Irene was sitting on the
+was night. Half undressed, Irene was sitting on the
 edge of her bed stitching away at an unfinished garment
 of pale pink silk. Her head was bent over her work
 and her thick hair hung perpendicularly down on either
@@ -11819,7 +11819,7 @@ CHAPTER XII
 .pm drop-start
 Miss Thriplow
 .pm drop-end
- was writing in her secret note-book.
+was writing in her secret note-book.
 "There are people," she wrote, "who seem
 to have no capacity for feeling deeply or passionately
 about anything. It is a kind of emotional impotence for
@@ -12030,7 +12030,7 @@ CHAPTER XIII
 .pm drop-start
 Calamy
 .pm drop-end
- lay on his back, quite still, looking up into
+lay on his back, quite still, looking up into
 the darkness. Up there, he was thinking, so near
 that it's only a question of reaching out a hand to draw
 back the curtaining darkness that conceals it, up there,
@@ -12229,7 +12229,7 @@ CHAPTER I
 .pm drop-start
 Lord Hovenden
 .pm drop-end
- detached from his motor car was
+detached from his motor car was
 an entirely different being from the Lord Hovenden
 who lounged with such a deceptive air of languor behind
 the steering-wheel of a Vauxhall Velox. Half an hour
@@ -12880,7 +12880,7 @@ CHAPTER II
 .pm drop-start
 Time
 .pm drop-end
- and space, matter and mind, subject, object--how
+and space, matter and mind, subject, object--how
 inextricably they got mixed, next day, on the
 road to Rome! The simple-minded traveller who imagines
 himself to be driving quietly through Umbria and
@@ -13094,7 +13094,7 @@ CHAPTER III
 .pm drop-start
 From
 .pm drop-end
- the heights of the Pincio Mr. Falx denounced
+the heights of the Pincio Mr. Falx denounced
 the city that lay spread out below him.
 
 "Marvellous, isn't it?" Mrs. Aldwinkle had said.
@@ -13342,7 +13342,7 @@ CHAPTER IV
 .pm drop-start
 Mr. Falx
 .pm drop-end
- had expected to find no difficulty, once
+had expected to find no difficulty, once
 they were arrived in Rome, in recalling his pupil
 to what he considered a better and more serious frame of
 mind. In the bracing atmosphere of an International
@@ -14085,7 +14085,7 @@ CHAPTER VI
 .pm drop-start
 "But
 .pm drop-end
- at Montefiascone," said Mr. Cardan, concluding
+at Montefiascone," said Mr. Cardan, concluding
 the history of the German bishop who gave the
 famous wine of Montefiascone its curious name, "at
 Montefiascone Bishop Defuk's servant found good wine
@@ -14305,7 +14305,7 @@ CHAPTER VII
 .pm drop-start
 In
 .pm drop-end
- the sporting calendar the most interesting events are
+the sporting calendar the most interesting events are
 booked for the autumnal months. There is no hunting
 in the spring. And even in Italy there is a brief close
 season for song-birds that lasts from the coming of the
@@ -14770,7 +14770,7 @@ CHAPTER VIII
 .pm drop-start
 From
 .pm drop-end
- the first nobody put very much faith in the local
+the first nobody put very much faith in the local
 doctor; the mere look of him was enough to inspire
 mistrust. But when across the patient's prostrate and
 comatose body he chattily confided that he had taken his
@@ -14918,7 +14918,7 @@ CHAPTER IX
 .pm drop-start
 The
 .pm drop-end
- funeral was not due to take place before sunset.
+funeral was not due to take place before sunset.
 The bearers, the choristers, the sexton, the priest
 himself, most likely, were all in the fields, picking the
 grapes. They had something more important to do, while
@@ -15167,7 +15167,7 @@ CHAPTER I
 .pm drop-start
 "What
 .pm drop-end
- are you thinking of?"
+are you thinking of?"
 
 "Nothing," said Calamy.
 
@@ -15627,7 +15627,7 @@ CHAPTER II
 .pm drop-start
 On
 .pm drop-end
- their return, somewhat low-spirited, from Montefiascone,
+their return, somewhat low-spirited, from Montefiascone,
 Mrs. Aldwinkle and her party found Mary
 Thriplow alone in the palace.
 
@@ -15973,7 +15973,7 @@ CHAPTER III
 .pm drop-start
 In
 .pm drop-end
- the course of the last few days the entries in Miss
+the course of the last few days the entries in Miss
 Thriplow's note-book had changed their character.
 From being amorous they had turned mystical. Savage
 and mindless passion was replaced by quiet contemplation.
@@ -16229,7 +16229,7 @@ CHAPTER IV
 .pm drop-start
 It
 .pm drop-end
- had been raining, stormily; but now the wind had
+had been raining, stormily; but now the wind had
 fallen and between the heavy clouds the sun was
 brightly shining. The yellowing chestnut trees stood
 motionless in the still bright air, glittering with moisture.
