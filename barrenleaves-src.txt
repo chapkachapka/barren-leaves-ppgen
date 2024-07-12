@@ -1885,7 +1885,7 @@ the facts of nature—how flat and stale the whole business
 must become! It needs crinolines to excite the imagination
 and dragonish duennas to inflame desire to passion.
 Too much light conversation about the Oedipus complex
-and anal erotism is taking the edge off love. In a few
+and anal-erotism is taking the edge off love. In a few
 years, I don’t mind prophesying, you young people will
 be whispering to one another sublime things about angels,
 sisters of charity and the infinite. You’ll be sheathed in
@@ -3571,7 +3571,7 @@ her Aunt Lilian to notice that she in her turn was
 being followed.
 
 “Now don’t pretend,” said Mrs. Aldwinkle. “It’s so
-stupid pretending. Much better to be frank and straight-forward.
+stupid pretending. Much better to be frank and straightforward.
 Admit, now, that you like him.”
 
 Irene admitted. “Yes, of course I like him. But not
@@ -3800,7 +3800,7 @@ pillowed in the unruffled water; my limbs and body
 dimpled the surface of a pellucid mattress thirty feet thick
 and cherishingly resilient through all its thickness, down
 to the sandy bed on which it was spread. One might lie
-paralysed here for a life-time and never get a bedsore.
+paralysed here for a lifetime and never get a bedsore.
 
 The sky above me was filmy with the noonday heat.
 The mountains, when I turned towards the land to look
@@ -12798,7 +12798,7 @@ thick hair her face looked smiling out, merry in its childishness.
 Leaving the stately part of the town, they plunged into
 the labyrinth of steep alleys, of winding passage-ways and
 staircases behind the cathedral. Built confusedly on the
-hill-side, the tall houses seemed to grow into one another,
+hillside, the tall houses seemed to grow into one another,
 as though they were the component parts of one immense
 and fantastical building, in which the alleys served as
 corridors. The road would burrow through the houses
@@ -14759,7 +14759,7 @@ along the corridors and on the stairs. Startled and
 alarmed, Mrs. Aldwinkle got up, went to the door, opened
 it a crack and looked into the passage. Some one hurried
 past; hastily she closed it again. When the coast was
-clear, she slipped out into the passage and tip-toed away,
+clear, she slipped out into the passage and tiptoed away,
 leaving me alone.
 
 The commotion was caused by the beginning of Miss
@@ -17094,6 +17094,24 @@ Itemized changes from the original text:
 .it #p. 253:Page_253#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
 .it #p. 309:Page_309#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
 .it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keate)
+.ul-
+
+Hyphenation was changed in some words for consistency:
+.ul
+.it #p. 47:Page_47#: Changed "anal erotism" to "anal-erotism" to match five other occurrences
+.it #p. 85:Page_85#: Changed "straight-forward" to "straightforward" to match four other occurrences
+.it #p. 93:Page_93#: Changed "life-time" to "lifetime" to match three other occurrences
+.it #p. 300:Page_300#: Changed "hill-side" to "hillside" to match two other occurrences
+.it #p. 346:Page_346#: Changed "tip-toed" to "tiptoed" to match two other occurrences
+.ul-
+
+Inconsistent hyphenation was retained for the words:
+.ul
+.it "bed-chamber"/"bedchamber"
+.it "finger-tips"/"finger tips"
+.it "good-morning"/"good morning"
+.it "grouse-shooting"/"grouse shooting"
+.it "walking-stick"/"walking stick"
 .ul-
 
 .dv-
