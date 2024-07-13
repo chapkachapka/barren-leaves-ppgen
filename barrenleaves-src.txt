@@ -154,7 +154,7 @@ GEORGE H. DORAN COMPANY
 .if h
 .dv class="centered-div"
 NEW
-<img height="50" width="50" src="images/gdh-logo.png"/>
+<img height="50" width="50" src="images/gdh-logo.png" alt="GHD"/>
 YORK
 .dv-
 .dv class="centered-div"
