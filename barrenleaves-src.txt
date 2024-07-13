@@ -9516,8 +9516,10 @@ out sugar with a little shovel....
 .bn 224.png
 .pn +1
 
+.ll 74
 “How extraordinarily nice and jolly he looks!” she said
 enthusiastically, as they approached.
+.ll
 
 “Does he?” asked Mr. Cardan in some surprise. To
 his eyes the man looked like a hardly mitigated ruffian.
