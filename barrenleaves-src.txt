@@ -53,7 +53,7 @@ background-color: #E3E4FA; border: 1px solid silver; }
 
 // Build a three-part substitution model for dropped lines in poetry
 
-.sr h §@dl1@§<span class="dropped-line"><span class="a">§
+.sr h §@dl1@§<span class="dropped-line"><span>§
 .sr h §@dl2@§</span><span>§
 .sr h §@dl3@§</span>§
 
