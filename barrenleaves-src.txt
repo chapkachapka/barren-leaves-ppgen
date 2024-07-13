@@ -57,7 +57,7 @@ background-color: #E3E4FA; border: 1px solid silver; }
 
 .sr h §@dl1@§<span class="dropped-line"><span>§
 .sr h §@dl2@§</span><span>§
-.sr h §@dl3@§</span>§
+.sr h §@dl3@§</span></span>§
 
 // End of Header
 
