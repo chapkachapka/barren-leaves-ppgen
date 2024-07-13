@@ -37,6 +37,8 @@
 
 // Class definitions
 
+.de .toc td {padding-bottom:1em;}
+
 .de .uppercase {text-transform:uppercase;}
 
 .de div.linegroup {margin-top:1em;}
@@ -196,20 +198,16 @@ PRINTED IN THE UNITED STATES OF AMERICA
 CONTENTS
 .sp 2
 
+.dv class="toc"
 .ta lr
-
 <th><s>PART</s> | <s>PAGE</s>
 I: AN EVENING AT MRS. ALDWINKLE’S | #9:part-1#
-
 II: FRAGMENTS FROM THE AUTOBIOGRAPHY OF FRANCIS CHELIFER | #93:part-2#
-
 III: THE LOVES OF THE PARALLELS | #187:part-3#
-
 IV: THE JOURNEY | #289:part-4#
-
 V: CONCLUSIONS | #359:part-5#
-
 .ta-
+.dv-
 
 // Set registers for main text
 
