@@ -49,7 +49,7 @@ margin-left:auto;margin-right:auto;}
 .de span.dropped-line > span:first-child {vertical-align:100%;}
 
 .de .transcribers-notes { width: 80%; margin: auto; padding: 0 1em; \
-background-color: #E3E4FA; border: 1px solid silver; }
+background-color: #E3E4FA; border: 1px solid silver;page-break-before:always;margin-top:4em; }
 
 // Regex
 
@@ -17071,17 +17071,25 @@ reassured.
 .ce
 THE END
 
+
 // End of Main Text
+
+.if t
+.sp 4
+.if-
 
 // Transcriber’s Notes
 
+
 .dv class="transcribers-notes"
 .ce
-<b>Transcriber’s Notes</b>
+<xl>Transcriber’s Notes</xl>
+
+.sp 2
 
 .if t
-This file uses <i>underscores</i> to indicate italic text and <b>equals signs</b>
-to indicate bold text.
+This file uses <i>underscores</i> to indicate italic text.
+.sp 2
 .if-
 
 Itemized changes from the original text:
@@ -17096,6 +17104,8 @@ Itemized changes from the original text:
 .it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keate)
 .ul-
 
+.sp 2
+
 Hyphenation was changed in some words for consistency:
 .ul
 .it #p. 47:Page_47#: Changed "anal erotism" to "anal-erotism" to match five other occurrences
@@ -17104,6 +17114,8 @@ Hyphenation was changed in some words for consistency:
 .it #p. 300:Page_300#: Changed "hill-side" to "hillside" to match two other occurrences
 .it #p. 346:Page_346#: Changed "tip-toed" to "tiptoed" to match two other occurrences
 .ul-
+
+.sp 2
 
 Inconsistent hyphenation was retained for the words:
 .ul
