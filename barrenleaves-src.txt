@@ -43,7 +43,7 @@
 
 .de div.linegroup {margin-top:1em;}
 
-.de .centered-div {max-width:fit-content; \
+.de .centered-div {display:table; \
 margin-left:auto;margin-right:auto;}
 
 .de span.dropped-line > span:first-child {vertical-align:100%;}
