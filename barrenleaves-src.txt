@@ -756,9 +756,9 @@ CHAPTER II
 .dv-
 
 .pm drop-start
-Mrs. Aldwinkle
+Mrs. Aldwinkle,
 .pm drop-end
-, when she returned, found them
+when she returned, found them
 on the upper terrace, looking at the view. It was
 almost the hour of sunset. The town of Vezza at their
 feet was already eclipsed by the shadow of the great bluff
@@ -4467,9 +4467,9 @@ CHAPTER II
 .dv-
 
 .pm drop-start
-Gog’s Court
+Gog’s Court,
 .pm drop-end
-, the navel of reality! Repeating
+the navel of reality! Repeating
 those verses of mine in the silence, I intimately felt
 the truth of it.
 
@@ -6979,9 +6979,9 @@ CHAPTER VI
 .dv-
 
 .pm drop-start
-Such
+Such,
 .pm drop-end
-, then, were the phantoms that my recitation
+then, were the phantoms that my recitation
 called up to dance on the surface of the Tyrrhenian.
 Salutarily they reminded me that I was only on my holiday,
 that the landscape in the midst of which I was now
