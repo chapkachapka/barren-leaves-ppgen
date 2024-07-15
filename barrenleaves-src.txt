@@ -39,6 +39,9 @@
 
 .de .toc td {padding-bottom:1em;}
 
+// Wraps each chapter header, to prevent page breaks in epub
+.de div.chapter {page-break-before:always;}
+
 .de .uppercase {text-transform:uppercase;}
 
 .de div.linegroup {margin-top:1em;}
@@ -48,6 +51,9 @@ margin-left:auto;margin-right:auto;}
 
 .de span.dropped-line > span:first-child {vertical-align:100%;}
 
+.de .nobreak {page-break-before:avoid;page-break-inside:avoid;}
+
+.de .the-end {page-break-before:avoid;margin-top:1em;text-align:center;}
 .de .transcribers-notes { width: 80%; margin: auto; padding: 0 1em; \
 background-color: #E3E4FA; border: 1px solid silver;page-break-before:always;margin-top:4em; }
 
@@ -58,6 +64,10 @@ background-color: #E3E4FA; border: 1px solid silver;page-break-before:always;mar
 .sr h §@dl1@§<span class="dropped-line"><span>§
 .sr h §@dl2@§</span><span>§
 .sr h §@dl3@§</span></span>§
+
+// We don't want page breaks in the middle of chapter headings
+
+.sr h §page-break-before:[ ]{0,}auto§page-break-before:avoid§
 
 // End of Header
 
@@ -132,16 +142,12 @@ BY THE SAME AUTHOR
 .pb
 .bn 003.png
 
-
-
-.h1
+.h1 nobreak
 THOSE||BARREN LEAVES
 .hr w=50%
 .ce
 <l>BY ALDOUS HUXLEY</l>
 .sp 4
-
-
 
 // Publisher logo line (surprisingly complicated)
 
@@ -164,16 +170,12 @@ GEORGE H. DORAN COMPANY
 .dv-
 .if-
 
-
 .nr psb 1.0em
 
 // End publisher logo line
 
-
 .pb
 .bn 004.png
-
-
 
 .sp 4
 .ce 2
@@ -186,15 +188,13 @@ THOSE BARREN LEAVES
 —B—
 PRINTED IN THE UNITED STATES OF AMERICA
 
-
 .pb
 .bn 005.png
-
 
 // Table of Contents
 
 .sp 4
-.h2
+.h2 nobreak
 CONTENTS
 .sp 2
 
@@ -215,15 +215,16 @@ V: CONCLUSIONS | #359:part-5#
 .nr psi .5em
 .nr psb .5em
 
-// Main Text
+// START OF MAIN TEXT
+.dv class="chapter"
 
 .pb
 .bn 007.png
-.sp 8
-.ce
-<xl><sc>Part I</sc>: AN EVENING AT MRS. ALDWINKLE’S</xl>
-.sp 8
 
+.sp 8
+.h2 nobreak id="part-1"
+<sc>Part I</sc>: AN EVENING AT MRS. ALDWINKLE’S
+.sp 8
 
 .pb
 .bn 009.png
@@ -233,16 +234,17 @@ V: CONCLUSIONS | #359:part-5#
 .ce
 <xl>THOSE BARREN LEAVES</xl>
 
-
-.sp 4
-.h2 id="part-1"
-<sc>Part I</sc>: <i>An Evening at Mrs. Aldwinkle’s</i>
+.sp 2
+.ce
+<l><sc>Part I</sc>: <i>An Evening at Mrs. Aldwinkle’s</i></l>
 .sp 2
 
-
-.h3 id="chapter-1-1"
+.h3 nobreak id="chapter-1-1"
 CHAPTER I
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 The
@@ -734,16 +736,23 @@ at the least to be a duchess or a distinguished novelist.
 Can you wonder that I was nervous?” She dropped back
 into the depths of her chair. Poor little thing! But the
 pearls, though not marine, were still rather an embarrassment.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 021.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-2"
+.h3 nobreak id="chapter-1-2"
 CHAPTER II
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Mrs. Aldwinkle
@@ -1119,16 +1128,23 @@ looking down at the scattered jewels.
 
 Mrs. Aldwinkle was fortunately absorbed in telling
 Calamy about Pasquale da Montecatini.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 030.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-3"
+.h3 nobreak id="chapter-1-3"
 CHAPTER III
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Dinner
@@ -1929,16 +1945,23 @@ emphasis. “Isn’t that a little too thick?”
 
 Majestically Mrs. Aldwinkle rose from the table. “Let
 us go out into the garden,” she said.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 049.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-4"
+.h3 nobreak id="chapter-1-4"
 CHAPTER IV
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Mrs. Aldwinkle
@@ -2361,16 +2384,23 @@ Every second she delays, the explanation becomes more
 impossible. In a flat, miserable voice he goes on talking
 about Karl Marx. And suddenly, unrestrainedly, she
 begins sobbing and laughing at the same time.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 059.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-5"
+.h3 nobreak id="chapter-1-5"
 CHAPTER V
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 The
@@ -2626,16 +2656,23 @@ Cardan understood her, she reflected, or at least understood
 part of her—an unreal, superficial part, it was true;
 but still, she had to admit, a part. And it certainly wasn’t
 agreeable.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 065.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-6"
+.h3 nobreak id="chapter-1-6"
 CHAPTER VI
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 To
@@ -2887,16 +2924,23 @@ them to light a fire.”
 
 It was nearly midnight before Mrs. Aldwinkle finally
 gave the word to go indoors.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 071.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-7"
+.h3 nobreak id="chapter-1-7"
 CHAPTER VII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 To
@@ -3354,16 +3398,23 @@ from personal experience.
 Calamy laughed. “You’re perfectly right,” he said,
 and drained his glass. “Shouldn’t we think of going to
 bed?”
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 081.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-8"
+.h3 nobreak id="chapter-1-8"
 CHAPTER VIII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 To
@@ -3644,16 +3695,23 @@ spectacular.
 boy,” Mrs. Aldwinkle continued, with the air of pursuing
 an argument. She talked on. Irene listened and went on
 brushing.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 088.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-1-9"
+.h3 nobreak id="chapter-1-9"
 CHAPTER IX
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 In
@@ -3763,13 +3821,16 @@ thoughts would vanish.
 “Do you remember, Jim, that time we went out in the
 canoe together and nearly got drowned?…”
 
+// END OF CHAPTER
+.dv class="chapter"
+
 .pb
 .bn 091.png
 .pn +1
 
 .sp 8
-.ce
-<xl><sc>Part II</sc>: FRAGMENTS FROM THE AUTOBIOGRAPHY OF FRANCIS CHELIFER</xl>
+.h2 nobreak id="part-2"
+<sc>Part II</sc>: FRAGMENTS FROM THE AUTOBIOGRAPHY OF FRANCIS CHELIFER
 .sp 8
 
 .pb
@@ -3777,14 +3838,17 @@ canoe together and nearly got drowned?…”
 .pn +2
 
 .sp 4
-.h2 id="part-2"
-<sc>Part II</sc>: <i>Fragments from the Autobiography of Francis Chelifer</i>
+
+.ce
+<l><sc>Part II</sc>: <i>Fragments from the Autobiography of Francis Chelifer</i></l>
 .sp 2
 
-
-.h3 id="chapter-2-1"
+.h3 nobreak id="chapter-2-1"
 CHAPTER I
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Old
@@ -4383,16 +4447,23 @@ cruelty.
 So much for the last consolation of philosophy. We
 are left with reality. My office in Gog’s Court is situated,
 I repeat, at the very heart of it, the palpitating heart.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 108.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-2"
+.h3 nobreak id="chapter-2-2"
 CHAPTER II
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Gog’s Court
@@ -4739,16 +4810,23 @@ to be set before a mixed public like ours.”
 
 The other directors murmured their assent. There was
 a prolonged silence.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 116.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-3"
+.h3 nobreak id="chapter-2-3"
 CHAPTER III
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 I remember
@@ -5393,16 +5471,23 @@ from across a gulf. The child, I thought, grows up to
 forget that he is of the same flesh with his parents; but
 they do not forget. I wished, for her sake, that I were
 only five years old.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 130.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-4"
+.h3 nobreak id="chapter-2-4"
 CHAPTER IV
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 At
@@ -5533,16 +5618,23 @@ competently I have learned to write! In mere justice to
 myself I must insist on it. Not, of course, that it matters
 in the least. The larks might be my masterpiece; it would
 not matter a pin. Still, I insist. I insist….
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 133.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-5"
+.h3 nobreak id="chapter-2-5"
 CHAPTER V
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “Quite
@@ -6867,16 +6959,23 @@ to be received back into grace.
 
 Barbara shook her head. “I wish I could,” she said.
 “But that tiresome old Mr. Goble….”
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 163.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-6"
+.h3 nobreak id="chapter-2-6"
 CHAPTER VI
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Such
@@ -7406,16 +7505,23 @@ danger signals they were.
 
 An hour later I was reclining on cushions in Mrs. Aldwinkle’s
 Rolls Royce. There was no escape.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 175.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-2-7"
+.h3 nobreak id="chapter-2-7"
 CHAPTER VII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 No
@@ -7857,28 +7963,35 @@ shouted angrily to the owners of the various legs and
 skirts which I distinguished mistily to right and left of
 me: “Stand back, you must stand back! Do you want
 to suffocate the poor fellow?”
+
+// END OF CHAPTER
+.dv class="chapter"
+
 .pb
 .bn 185.png
 .pn +1
 
 .sp 8
-.ce
-<xl><sc>Part III</sc>: THE LOVES OF THE PARALLELS</xl>
+.h2 nobreak id="part-3"
+<sc>Part III</sc>: THE LOVES OF THE PARALLELS
 .sp 8
 
 .pb
 .bn 187.png
 .pn +2
 
-
 .sp 4
-.h2 id="part-3"
-<sc>Part III</sc>: <i>The Loves of the Parallels</i>
+
+.ce
+<l><sc>Part III</sc>: <i>The Loves of the Parallels</i></l>
 .sp 2
 
-.h3 id="chapter-3-1"
+.h3 nobreak id="chapter-3-1"
 CHAPTER I
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Do
@@ -8379,16 +8492,23 @@ pursued the subject started by her last words into
 more and more intimate detail. In spite of her five years’
 training in Aunt Lilian’s school, Irene felt profoundly
 shocked.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 199.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-2"
+.h3 nobreak id="chapter-3-2"
 CHAPTER II
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “We
@@ -8528,16 +8648,23 @@ down over the balustrade. On the lower terraces the
 couples were still parading up and down. He wondered
 what they were saying; he wished he were down there
 to listen. Boomingly, Mr. Falx played his prophetic part.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 202.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-3"
+.h3 nobreak id="chapter-3-3"
 CHAPTER III
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 It
@@ -8910,16 +9037,23 @@ you believe me now?” he asked.
 
 Mary Thriplow’s face was flushed. “You’re insufferable,”
 she said. But she was not really angry with him.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 210.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-4"
+.h3 nobreak id="chapter-3-4"
 CHAPTER IV
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “Why
@@ -9115,16 +9249,23 @@ house was not to last much longer. If it were not for the
 necessity of behaving politely, he would have left the place
 at once; like Lot, he would have shaken the dust of it
 from his feet.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 215.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-5"
+.h3 nobreak id="chapter-3-5"
 CHAPTER V
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “When
@@ -9695,16 +9836,23 @@ folk … the little shovel for the sugar … so much
 better, so much <em>gooder</em> than we…. In the end she
 almost wished that he would say something about it. Mr.
 Cardan’s silence seemed more ironic than any words.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 228.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-6"
+.h3 nobreak id="chapter-3-6"
 CHAPTER VI
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 The
@@ -10092,16 +10240,23 @@ develop his estate as a health resort.
 mollifyingly. “The Maremma isn’t what it was.”
 
 Mr. Elver said nothing, but scowled at the floor.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 237.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-7"
+.h3 nobreak id="chapter-3-7"
 CHAPTER VII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 The
@@ -10808,16 +10963,23 @@ When he had lighted his host to bed, Mr. Cardan went
 to his appointed room and undressed. It was a long time
 before he fell asleep. The mosquitoes, partly, and partly
 his own busy thoughts, were responsible for his wakefulness.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 253.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-8"
+.h3 nobreak id="chapter-3-8"
 CHAPTER VIII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Next
@@ -11248,16 +11410,23 @@ rage, “a damned stinking bully.”
 
 “Come, come,” said Mr. Cardan. “I protest against
 ‘stinking.’”
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 263.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-9"
+.h3 nobreak id="chapter-3-9"
 CHAPTER IX
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Early
@@ -11403,16 +11572,23 @@ his recumbent Etruscan, his sarcophagus by Jacopo della
 Quercia, his Romanesque demon. Still, he reflected, even
 a bas-relief by Giotto would hardly have brought him five
 and twenty thousand pounds.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 267.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-10"
+.h3 nobreak id="chapter-3-10"
 CHAPTER X
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Mr. Cardan
@@ -11639,16 +11815,23 @@ light, Miss Thriplow felt, on her own case. Grace was
 simple only as a child or an imbecile is simple; her didactic
 value was therefore nil. Miss Thriplow remained faithful
 to Mrs. Chelifer.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 273.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-11"
+.h3 nobreak id="chapter-3-11"
 CHAPTER XI
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 It
@@ -11822,16 +12005,23 @@ Ellis.
 
 For the next half hour Mrs. Aldwinkle and her niece
 discussed the interesting possibility.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 277.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-12"
+.h3 nobreak id="chapter-3-12"
 CHAPTER XII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Miss Thriplow
@@ -12033,16 +12223,23 @@ taking its temperature, very admirable. The flood of
 passion carried her along; Miss Thriplow took notes of
 her sensations on the way and hoped that there would be
 more and intenser sensations to record in the future.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 282.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-3-13"
+.h3 nobreak id="chapter-3-13"
 CHAPTER XIII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Calamy
@@ -12220,28 +12417,34 @@ walked softly and rapidly down the corridor, opened the
 fourth door on the left and disappeared into the darkness.
 A little later Mr. Falx returned, at leisure, to his
 room.
+
+// END OF CHAPTER
+.dv class="chapter"
+
 .pb
 .bn 287.png
 .pn +1
 
 .sp 8
-.ce
-<xl><sc>Part IV</sc>: THE JOURNEY</xl>
+.h2 nobreak id="part-4"
+<sc>Part IV</sc>: THE JOURNEY
 .sp 8
 
 .pb
 .bn 289.png
 .pn +2
 
-
 .sp 4
-.h2 id="part-4"
-<sc>Part IV</sc>: <i>The Journey</i>
+.ce
+<l><sc>Part IV</sc>: <i>The Journey</i></l>
 .sp 2
 
-.h3 id="chapter-4-1"
+.h3 nobreak id="chapter-4-1"
 CHAPTER I
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Lord Hovenden
@@ -12883,16 +13086,23 @@ She nodded. They walked back to their hotel hand in
 hand. Hovenden never stopped talking and laughing all
 the way. Irene was silent. The kiss had made her happy
 too, but in a different way.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 303.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-2"
+.h3 nobreak id="chapter-4-2"
 CHAPTER II
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Time
@@ -13097,16 +13307,23 @@ ideal world revealed itself: the vale of the Tiber, the
 broken plain of the Campagna, and in the midst—fantastic,
 improbable—the solitary cone of Mount Soracte,
 dim and blue against the blue of the sky.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 308.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-3"
+.h3 nobreak id="chapter-4-3"
 CHAPTER III
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 From
@@ -13345,16 +13562,23 @@ enough to spoil their rhythm. They listened for a little,
 smiling at the absurdity of this other music from outside;
 but they danced on uninterruptedly. After a time they did
 not even take the trouble to listen.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 314.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-4"
+.h3 nobreak id="chapter-4-4"
 CHAPTER IV
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 Mr. Falx
@@ -13620,17 +13844,23 @@ the triumphal column.
 
 They walked on. Mrs. Chelifer did not speak; she
 seemed preoccupied.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 320.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-5"
+.h3 nobreak id="chapter-4-5"
 CHAPTER V
 .sp 2
 
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 <i>“An</i>
@@ -14088,16 +14318,23 @@ the ground, “vat I didn’t feel very well. Ve doctor said
 I ought to get away from Rome at once. Country air,
 you know. So I just left a note for Mr. Falx and …
 and here I am.” He looked up again, smiling.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 331.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-6"
+.h3 nobreak id="chapter-4-6"
 CHAPTER VI
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “But
@@ -14305,19 +14542,26 @@ repeated “Oo, Oo!” of Grace Elver’s inarticulate pain.
 Roused by the sound from her momentary inaction, Irene
 turned, stepped across the passage and began knocking at
 Mr. Cardan’s door.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 336.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-7"
+.h3 nobreak id="chapter-4-7"
 CHAPTER VII
 .sp 1
 .ce
 <l><i>Selections from Francis Chelifer</i></l>
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 In
@@ -14773,16 +15017,23 @@ King John, of a surfeit of lampreys—in order that
 the lesson might be interrupted before it was carried too
 disagreeably far. But as it happens, I am not particularly
 vain.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 347.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-8"
+.h3 nobreak id="chapter-4-8"
 CHAPTER VIII
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 From
@@ -14921,16 +15172,23 @@ saw that his mother, faithful to her vegetarian principles,
 was throwing down into the den of cats bread and cold
 potatoes. In the evening he imagined she would come
 again. She had not taken long to find her Roman occupation.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 351.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-4-9"
+.h3 nobreak id="chapter-4-9"
 CHAPTER IX
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 The
@@ -15157,29 +15415,35 @@ The priest beckoned to Mr. Cardan to follow him into
 the sacristy. There, while the little umpire put away his
 censer and the whisk, he presented his bill. Mr. Cardan
 paid.
+
+// END OF CHAPTER
+.dv class="chapter"
+
 .pb
 .bn 357.png
 .pn +1
 
 .sp 8
-.ce
-<xl><sc>Part V</sc>: CONCLUSIONS</xl>
+.h2 nobreak id="part-5"
+<sc>Part V</sc>: CONCLUSIONS
 .sp 8
 
 .pb
 .bn 359.png
 .pn +2
 
-
-
 .sp 4
-.h2 id="part-5"
-<sc>Part V</sc>: <i>Conclusions</i>
+
+.ce
+<l><sc>Part V</sc>: <i>Conclusions</i></l>
 .sp 2
 
-.h3 id="chapter-5-1"
+.h3 nobreak id="chapter-5-1"
 CHAPTER I
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 “What
@@ -15630,16 +15894,23 @@ he said to himself.
 “No, no.” Mary struggled a little; but in the end she
 allowed herself to be overcome. She lay still, trembling,
 like one who has been tortured on the rack.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 369.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-5-2"
+.h3 nobreak id="chapter-5-2"
 CHAPTER II
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 On
@@ -15976,16 +16247,23 @@ constantly be with you. You’ll come and stay with us.”
 The assurance did not seem to bring much consolation
 to Mrs. Aldwinkle. She went on crying. The clock
 ticked away as busily as ever.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 376.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-5-3"
+.h3 nobreak id="chapter-5-3"
 CHAPTER III
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 In
@@ -16232,16 +16510,23 @@ and again, very slowly, but could never finish it, having
 forgotten, half-way through the act, what he meant to
 do. At last he disappeared altogether. Miss Thriplow
 had fallen into a profound and tranquil sleep.
+
+// END OF CHAPTER
+.dv class="chapter"
+
+.pb
 .bn 382.png
 .pn +1
 
-
-
+// NEW CHAPTER HEADING
 
 .sp 4
-.h3 id="chapter-5-4"
+.h3 nobreak id="chapter-5-4"
 CHAPTER IV
 .sp 2
+
+// NEW CHAPTER START
+.dv-
 
 .pm drop-start
 It
@@ -17067,21 +17352,33 @@ pale sky. Perhaps he had been a fool, thought Calamy.
 But looking at that shining peak, he was somehow
 reassured.
 
+// The End -- extra formatting required to avoid page break in epub
+
+.if t
 .sp 2
 .ce
 THE END
+.if-
 
+.if h
+.li
+<p class="the-end">THE END</p>
+.li-
+.if-
 
-// End of Main Text
+// END OF MAIN TEXT
 
 .if t
 .sp 4
 .if-
+.if h
+.sp 2
+.if-
+.pb
 
 // Transcriber’s Notes
 
-
-.dv class="transcribers-notes"
+.dv class="transcribers-notes nobreak"
 .ce
 <xl>Transcriber’s Notes</xl>
 
