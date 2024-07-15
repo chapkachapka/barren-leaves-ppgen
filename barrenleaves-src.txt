@@ -37,6 +37,7 @@
 
 // Class definitions
 
+.de img.publisher-logo {max-width:50px;max-height:50px;}
 .de .toc td {padding-bottom:1em;}
 
 // Wraps each chapter header, to prevent page breaks in epub
@@ -162,7 +163,7 @@ GEORGE H. DORAN COMPANY
 .if h
 .dv class="centered-div"
 NEW
-<img height="50" width="50" src="images/gdh-logo.png" alt="GHD">
+<img class="publisher-logo" src="images/gdh-logo.png" alt="[GHD]">
 YORK
 .dv-
 .dv class="centered-div"
