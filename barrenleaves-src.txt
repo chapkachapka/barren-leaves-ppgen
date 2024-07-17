@@ -14652,8 +14652,8 @@ I was like that wanton Blackamoor in one of old
 Busch’s misanthropically comic picture-books.
 
 .pm poem-block-start
-Ein Mohr aus Bosheit und Pläsier
-Schiesst auf das Elefantentier.
+<lang="de">Ein Mohr aus Bosheit und Pläsier
+Schiesst auf das Elefantentier.</lang>
 .pm poem-block-end
 
 .ni
