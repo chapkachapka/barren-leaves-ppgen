@@ -13863,10 +13863,16 @@ CHAPTER V
 // NEW CHAPTER START
 .dv-
 
+.if t
+“<i>An pris caruns flucuthukh</i>”; Mr. Cardan beckoned to
+.if-
+
+.if h
 .pm drop-start
 <i>“An</i>
 .pm drop-end
 <i><lang=ett>pris caruns flucuthukh</lang></i>”; Mr. Cardan beckoned to
+.if-
 the guide. “Bring the lamp a little nearer,” he
 said in Italian, and when the light had been approached,
 he went on slowly spelling out the primitive Greek writing
