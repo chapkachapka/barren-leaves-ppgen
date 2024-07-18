@@ -341,10 +341,10 @@ The last verse embodied a piece of specific good
 advice.
 
 .pm poem-block-start
-Intanto se vuoi vincere
+<lang=it>Intanto se vuoi vincere
 Un bel ternone al Lotto,
 Giuoca il sette e il sedici,
-Uniti al cinquantotto.
+Uniti al cinquantotto.</lang>
 .pm poem-block-end
 
 He read through the verse several times until he had
@@ -353,8 +353,8 @@ again. Seven, sixteen and fifty-eight—there certainly
 was something very attractive about those numbers.
 
 .pm poem-block-start
-Giuoca il sette e il sedici
-Uniti al cinquantotto.
+<lang=it>Giuoca il sette e il sedici
+Uniti al cinquantotto.</lang>
 .pm poem-block-end
 
 He had a very good mind to do as the oracle commanded.
