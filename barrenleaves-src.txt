@@ -236,7 +236,12 @@ V: CONCLUSIONS | #359:part-5#
 
 .sp 2
 .ce
+.if h
 <l><sc>Part I</sc>: <i>An Evening at Mrs. Aldwinkle’s</i></l>
+.if-
+.if t
+<sc>Part I</sc>: An Evening at Mrs. Aldwinkle’s
+.if-
 .sp 2
 
 .h3 nobreak id="chapter-1-1"
@@ -3840,7 +3845,13 @@ canoe together and nearly got drowned?…”
 .sp 4
 
 .ce
+.if h
 <l><sc>Part II</sc>: <i>Fragments from the Autobiography of Francis Chelifer</i></l>
+.if-
+.if t
+<sc>Part II</sc>: Fragments from the Autobiography of Francis Chelifer
+.if-
+
 .sp 2
 
 .h3 nobreak id="chapter-2-1"
@@ -7983,7 +7994,12 @@ to suffocate the poor fellow?”
 .sp 4
 
 .ce
+.if h
 <l><sc>Part III</sc>: <i>The Loves of the Parallels</i></l>
+.if-
+.if t
+<sc>Part III</sc>: The Loves of the Parallels
+.if-
 .sp 2
 
 .h3 nobreak id="chapter-3-1"
@@ -12436,7 +12452,12 @@ room.
 
 .sp 4
 .ce
+.if h
 <l><sc>Part IV</sc>: <i>The Journey</i></l>
+.if-
+.if t
+<sc>Part IV</sc>: The Journey
+.if-
 .sp 2
 
 .h3 nobreak id="chapter-4-1"
@@ -14563,7 +14584,12 @@ Mr. Cardan’s door.
 CHAPTER VII
 .sp 1
 .ce
+.if h
 <l><i>Selections from Francis Chelifer</i></l>
+.if-
+.if t
+Selections from Francis Chelifer
+.if-
 .sp 2
 
 // NEW CHAPTER START
@@ -15441,7 +15467,12 @@ paid.
 .sp 4
 
 .ce
+.if h
 <l><sc>Part V</sc>: <i>Conclusions</i></l>
+.if-
+.if t
+<sc>Part V</sc>: Conclusions
+.if-
 .sp 2
 
 .h3 nobreak id="chapter-5-1"
