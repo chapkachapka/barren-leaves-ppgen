@@ -8,6 +8,11 @@
 
 .dt Those Barren Leaves | Project Gutenberg
 
+// Registers
+
+.nr psi .5em
+.nr psb .5em
+
 // Macros
 
 // poetry blocks
@@ -152,8 +157,6 @@ THOSE||BARREN LEAVES
 
 // Publisher logo line (surprisingly complicated)
 
-.nr psb 0
-
 .if t
 .ce 2
 NEW [GHD] YORK
@@ -170,8 +173,6 @@ YORK
 GEORGE H. DORAN COMPANY
 .dv-
 .if-
-
-.nr psb 1.0em
 
 // End publisher logo line
 
@@ -210,11 +211,9 @@ V: CONCLUSIONS | #359:part-5#
 .ta-
 .dv-
 
-// Set registers for main text
+// Set paragraph settings for main text
 
 .pi
-.nr psi .5em
-.nr psb .5em
 
 // START OF MAIN TEXT
 .dv class="chapter"
