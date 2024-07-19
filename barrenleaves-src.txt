@@ -218,11 +218,7 @@ V: CONCLUSIONS | #359:toc-hook-part-5#
 // START OF MAIN TEXT
 .dv class="chapter"
 
-.if h
-.li
-<a name="toc-hook-part-1"/>
-.li-
-.if-
+<target=toc-hook-part-1>
 
 .pb
 .bn 007.png
@@ -283,7 +279,7 @@ climbing up the slopes beyond. And the whole is dominated
 by a tall slender tower that blossoms out at the top,
 after the manner of Italian towers, into overhanging
 machicolations. It is the summer palace of the Cybo
-Malaspina, one-time Princes of Massa and Carrara,
+Malaspina, one-time <target=tn-Princes>Princes of Massa and Carrara,
 Dukes of Vezza, and marquesses, counts and barons of
 various other villages in the immediate neighbourhood.
 
@@ -1910,7 +1906,7 @@ the facts of nature—how flat and stale the whole business
 must become! It needs crinolines to excite the imagination
 and dragonish duennas to inflame desire to passion.
 Too much light conversation about the Oedipus complex
-and anal-erotism is taking the edge off love. In a few
+and <target=tn-anal-erotism>anal-erotism is taking the edge off love. In a few
 years, I don’t mind prophesying, you young people will
 be whispering to one another sublime things about angels,
 sisters of charity and the infinite. You’ll be sheathed in
@@ -3301,7 +3297,7 @@ me,” Calamy went on, “that I’m beginning to have had
 enough of sports, whether indoor or out-of-door. I’d
 like to find some more serious occupation.”
 
-“But that’s easier said than done.” Mr. Cardan shook
+“But that’s <target=tn-than>easier said than done.” Mr. Cardan shook
 his head. “For members of our species it’s precious hard
 to find any occupation that seems entirely serious. Eh?”
 
@@ -3631,14 +3627,14 @@ her Aunt Lilian to notice that she in her turn was
 being followed.
 
 “Now don’t pretend,” said Mrs. Aldwinkle. “It’s so
-stupid pretending. Much better to be frank and straightforward.
+stupid pretending. Much better to be frank and <target=tn-straightforward>straightforward.
 Admit, now, that you like him.”
 
 Irene admitted. “Yes, of course I like him. But not
 … not in any special way. I’d really not thought of
 him like that.”
 
-A shade contemptuously, benevolently amused, Mrs.
+A shade contemptuously, benevolently amused, <target=tn-mrs>Mrs.
 Aldwinkle smiled. She forgot her depression, forgot her
 causes of personal complaint against the universal order
 of things. Absorbed in the uniquely interesting subject,
@@ -3835,11 +3831,7 @@ canoe together and nearly got drowned?…”
 // END OF CHAPTER
 .dv class="chapter"
 
-.if h
-.li
-<a name="toc-hook-part-2"/>
-.li-
-.if-
+<target=toc-hook-part-2>
 
 .pb
 .bn 091.png
@@ -3885,7 +3877,7 @@ pillowed in the unruffled water; my limbs and body
 dimpled the surface of a pellucid mattress thirty feet thick
 and cherishingly resilient through all its thickness, down
 to the sandy bed on which it was spread. One might lie
-paralysed here for a lifetime and never get a bedsore.
+paralysed here for a <target=tn-lifetime>lifetime and never get a bedsore.
 
 The sky above me was filmy with the noonday heat.
 The mountains, when I turned towards the land to look
@@ -7828,7 +7820,7 @@ We sat down.
 “How are you feeling now?” asked Mrs. Aldwinkle,
 remembering once more to be solicitous…. “Too appalling
 to think,” she added, “how nearly…. And
-I’ve always so enormously admired your work.”
+I’ve always so enormously admired <target=tn-your>your work.”
 
 “So have I,” declared my colleague in the green frock.
 “Most awfully. Still, I confess, I find some of your
@@ -7990,11 +7982,7 @@ to suffocate the poor fellow?”
 // END OF CHAPTER
 .dv class="chapter"
 
-.if h
-.li
-<a name="toc-hook-part-3"/>
-.li-
-.if-
+<target=toc-hook-part-3>
 
 .pb
 .bn 185.png
@@ -9534,7 +9522,7 @@ great Jesuit church, stands d’Annunzio.”
 
 “I should have thought,” said Miss Thriplow with
 barbed ingenuousness, “that you’d have liked that sort of
-elaboration and virtuosity. It’s ‘amusing’—isn’t that the
+elaboration and virtuosity. <target=tn-its>It’s ‘amusing’—isn’t that the
 word?”
 
 “True,” answered Mr. Cardan, “I like being amused.
@@ -11018,7 +11006,7 @@ CHAPTER VIII
 .pm drop-start
 Next
 .pm drop-end
-morning Mr. Cardan was down early. The
+morning Mr. <target=tn-Cardan>Cardan was down early. The
 first thing he saw in the desolate garden before the
 house was Miss Elver. She was dressed in a frock cut
 on the same sack-like lines as her last night’s dress, but
@@ -12455,11 +12443,7 @@ room.
 // END OF CHAPTER
 .dv class="chapter"
 
-.if h
-.li
-<a name="toc-hook-part-4"/>
-.li-
-.if-
+<target=toc-hook-part-4>
 
 .pb
 .bn 287.png
@@ -13046,7 +13030,7 @@ thick hair her face looked smiling out, merry in its childishness.
 Leaving the stately part of the town, they plunged into
 the labyrinth of steep alleys, of winding passage-ways and
 staircases behind the cathedral. Built confusedly on the
-hillside, the tall houses seemed to grow into one another,
+<target=tn-hillside>hillside, the tall houses seemed to grow into one another,
 as though they were the component parts of one immense
 and fantastical building, in which the alleys served as
 corridors. The road would burrow through the houses
@@ -13435,7 +13419,7 @@ hate. For if the workers are afraid of losing their jobs,
 so too are the burgesses, and with almost better reason—for
 they have more to lose, have further to fall. They
 fall from a precarious heaven of gentility into the abysses
-of unrelieved poverty, into the workhouse and the glutted
+of unrelieved <target=tn-poverty>poverty, into the workhouse and the glutted
 labour exchanges; can you wonder that they live in fear?
 And as for hate—you can talk about the hate of the proletariat
 for the bourgeoisie, but it’s nothing, I assure you,
@@ -13965,7 +13949,7 @@ I believe I shall be justified; <i><lang=ett>flucuthukh</lang></i> will turn
 out to be just as appropriate as Fufluns—you mark my
 words! It’s a great language, I insist; a great language.
 Who knows? A couple of generations hence some new
-Busby or Keate may be drumming Etruscan syntax and
+Busby or <target=tn-Keate>Keate may be drumming Etruscan syntax and
 Etruscan prosody into the backsides of British boyhood.
 Nothing would give me greater satisfaction. Latin and
 Greek have a certain infinitesimal practical value. But
@@ -15059,7 +15043,7 @@ along the corridors and on the stairs. Startled and
 alarmed, Mrs. Aldwinkle got up, went to the door, opened
 it a crack and looked into the passage. Some one hurried
 past; hastily she closed it again. When the coast was
-clear, she slipped out into the passage and tiptoed away,
+clear, she slipped out into the passage and <target=tn-tiptoed>tiptoed away,
 leaving me alone.
 
 The commotion was caused by the beginning of Miss
@@ -15475,11 +15459,7 @@ paid.
 // END OF CHAPTER
 .dv class="chapter"
 
-.if h
-.li
-<a name="toc-hook-part-5"/>
-.li-
-.if-
+<target=toc-hook-part-5>
 
 .pb
 .bn 357.png
@@ -17458,25 +17438,25 @@ This file uses <i>underscores</i> to indicate italic text.
 
 Itemized changes from the original text:
 .ul
-.it #p. 9:Page_9#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
-.it #p. 78:Page_78#: changed “that” to “than” (that’s easier said than done)
-.it #p. 85:Page_85#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
-.it #p. 181:Page_181#: changed “you” to “your” (I’ve always … admired your work)
-.it #p. 220:Page_220#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
-.it #p. 253:Page_253#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
-.it #p. 309:Page_309#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
-.it #p. 321:Page_321#: changed “Keat” to “Keate” (some new Busby or Keate)
+.it #p. 9:tn-Princes#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
+.it #p. 78:tn-than#: changed “that” to “than” (that’s easier said than done)
+.it #p. 85:tn-mrs#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
+.it #p. 181:tn-your#: changed “you” to “your” (I’ve always … admired your work)
+.it #p. 220:tn-its#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
+.it #p. 253:tn-Cardan#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
+.it #p. 309:tn-poverty#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
+.it #p. 321:tn-Keate#: changed “Keat” to “Keate” (some new Busby or Keate)
 .ul-
 
 .sp 2
 
 Hyphenation was changed in some words for consistency:
 .ul
-.it #p. 47:Page_47#: Changed "anal erotism" to "anal-erotism" to match five other occurrences
-.it #p. 85:Page_85#: Changed "straight-forward" to "straightforward" to match four other occurrences
-.it #p. 93:Page_93#: Changed "life-time" to "lifetime" to match three other occurrences
-.it #p. 300:Page_300#: Changed "hill-side" to "hillside" to match two other occurrences
-.it #p. 346:Page_346#: Changed "tip-toed" to "tiptoed" to match two other occurrences
+.it #p. 47:tn-anal-erotism#: Changed "anal erotism" to "anal-erotism" to match five other occurrences
+.it #p. 85:tn-straightforward#: Changed "straight-forward" to "straightforward" to match four other occurrences
+.it #p. 93:tn-lifetime#: Changed "life-time" to "lifetime" to match three other occurrences
+.it #p. 300:tn-hillside#: Changed "hill-side" to "hillside" to match two other occurrences
+.it #p. 346:tn-tiptoed#: Changed "tip-toed" to "tiptoed" to match two other occurrences
 .ul-
 
 .sp 2
