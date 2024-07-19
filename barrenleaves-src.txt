@@ -114,6 +114,7 @@ ALDOUS HUXLEY
 
 .if t
 BY THE SAME AUTHOR
+
 ──────────────────────
 .if-
 
@@ -123,6 +124,7 @@ BY THE SAME AUTHOR
 .li
 <hr class="bythesamehr">
 .li-
+.if-
 
 .ul style=none hang=y
 
@@ -17436,6 +17438,10 @@ This file uses <i>underscores</i> to indicate italic text.
 .sp 2
 .if-
 
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+.sp 2
+
 Itemized changes from the original text:
 .ul
 .it #p. 9:tn-Princes#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
@@ -17453,22 +17459,22 @@ Itemized changes from the original text:
 
 Hyphenation was changed in some words for consistency:
 .ul
-.it #p. 47:tn-anal-erotism#: Changed "anal erotism" to "anal-erotism" to match five other occurrences
-.it #p. 85:tn-straightforward#: Changed "straight-forward" to "straightforward" to match four other occurrences
-.it #p. 93:tn-lifetime#: Changed "life-time" to "lifetime" to match three other occurrences
-.it #p. 300:tn-hillside#: Changed "hill-side" to "hillside" to match two other occurrences
-.it #p. 346:tn-tiptoed#: Changed "tip-toed" to "tiptoed" to match two other occurrences
+.it #p. 47:tn-anal-erotism#: Changed “anal erotism” to “anal-erotism” to match five other occurrences
+.it #p. 85:tn-straightforward#: Changed “straight-forward” to “straightforward” to match four other occurrences
+.it #p. 93:tn-lifetime#: Changed “life-time” to “lifetime” to match three other occurrences
+.it #p. 300:tn-hillside#: Changed “hill-side” to “hillside” to match two other occurrences
+.it #p. 346:tn-tiptoed#: Changed “tip-toed” to “tiptoed” to match two other occurrences
 .ul-
 
 .sp 2
 
 Inconsistent hyphenation was retained for the words:
 .ul
-.it "bed-chamber"/"bedchamber"
-.it "finger-tips"/"finger tips"
-.it "good-morning"/"good morning"
-.it "grouse-shooting"/"grouse shooting"
-.it "walking-stick"/"walking stick"
+.it “bed-chamber”/“bedchamber”
+.it “finger-tips”/“finger tips”
+.it “good-morning”/“good morning”
+.it “grouse-shooting”/“grouse shooting”
+.it “walking-stick”/“walking stick”
 .ul-
 
 .sp 2
