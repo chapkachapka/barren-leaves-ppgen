@@ -7881,7 +7881,7 @@ I looked at her, I thought her a monster. I realised, too
 late (which made the realisation the more vexatious),
 what I had let myself in for when I accepted Mrs. Aldwinkle’s
 invitation. Fantastic surroundings, art, classy
-chats about the cosmos, the intelligensia, love…. It
+chats about the cosmos, the <target=tn-intelligentsia>intelligentsia, love…. It
 was too much, even on a holiday.
 
 I shut my eyes. Sometimes, when Mrs. Aldwinkle interpellated
@@ -17442,6 +17442,7 @@ Itemized changes from the original text:
 .it #p. 78:tn-than#: changed “that” to “than” (that’s easier said than done)
 .it #p. 85:tn-mrs#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
 .it #p. 181:tn-your#: changed “you” to “your” (I’ve always … admired your work)
+.it #p. 182:tn-intelligentsia#: changed “intelligensia” to “intelligentsia” (the cosmos, the intelligentsia, love….)
 .it #p. 220:tn-its#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
 .it #p. 253:tn-Cardan#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
 .it #p. 309:tn-poverty#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
