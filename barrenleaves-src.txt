@@ -17472,7 +17472,8 @@ Inconsistent hyphenation was retained for the words:
 
 .sp 2
 
-.ce
-New original cover art included with this eBook is granted to the public domain.
+.ce 2
+New original cover art included with this eBook 
+is granted to the public domain.
 
 .dv-
