@@ -145,7 +145,6 @@ BY THE SAME AUTHOR
 .it LEDA: <sc>AND OTHER POEMS</sc>
 
 .ul-
-.if-
 
 .pb
 .bn 003.png
