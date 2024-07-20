@@ -3249,7 +3249,7 @@ there is in you to be enslaved and involved.”
 
 .pm poem-block-start
 “The woman yonder, there’s no use in life
-But just to obtain her.”
+ But just to obtain her.”
 .pm poem-block-end
 
 “Browning was a fool,” said Calamy.
@@ -3324,9 +3324,9 @@ others not merely wonderfully decent, but even noble.
 
 .pm poem-block-start
 “Ah, what avail the loaded dice?
-Ah, what the tubs of wine?
-What every weakness, every vice?
-Tom Cardan, all were thine.
+ Ah, what the tubs of wine?
+ What every weakness, every vice?
+ Tom Cardan, all were thine.
 .pm poem-block-end
 
 .ni
