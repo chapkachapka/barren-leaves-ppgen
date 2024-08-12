@@ -65,6 +65,9 @@ background-color: #E3E4FA; border: 1px solid silver;page-break-before:always;mar
 
 // Regex
 
+// Remove placeholders
+.sr h §@placeholder@§§
+
 // Build a three-part substitution model for dropped lines in poetry
 
 .sr h §@dl1@§<span class="dropped-line"><span>§
@@ -78,6 +81,8 @@ background-color: #E3E4FA; border: 1px solid silver;page-break-before:always;mar
 // End of Header
 
 // Front Matter
+
+.sp 4
 
 .bn 001.png
 
@@ -111,6 +116,8 @@ ALDOUS HUXLEY
 .bn 002.png
 
 // List of works (html/text version)
+
+.sp 4
 
 .if t
 BY THE SAME AUTHOR
@@ -148,6 +155,8 @@ BY THE SAME AUTHOR
 
 .pb
 .bn 003.png
+
+.sp 4
 
 .h1 nobreak
 THOSE||BARREN LEAVES
@@ -237,7 +246,7 @@ V: CONCLUSIONS | #359:toc-hook-part-5#
 .ce
 <xl>THOSE BARREN LEAVES</xl>
 
-.sp 2
+.sp 4
 .ce
 .if h
 <l><sc>Part I</sc>: <i>An Evening at Mrs. Aldwinkle’s</i></l>
@@ -245,8 +254,7 @@ V: CONCLUSIONS | #359:toc-hook-part-5#
 .if t
 <sc>Part I</sc>: An Evening at Mrs. Aldwinkle’s
 .if-
-.sp 2
-
+.sp 4
 .h3 nobreak id="chapter-1-1"
 CHAPTER I
 .sp 2
@@ -3857,7 +3865,7 @@ canoe together and nearly got drowned?…”
 <sc>Part II</sc>: Fragments from the Autobiography of Francis Chelifer
 .if-
 
-.sp 2
+.sp 4
 
 .h3 nobreak id="chapter-2-1"
 CHAPTER I
@@ -8007,7 +8015,7 @@ to suffocate the poor fellow?”
 .if t
 <sc>Part III</sc>: The Loves of the Parallels
 .if-
-.sp 2
+.sp 4
 
 .h3 nobreak id="chapter-3-1"
 CHAPTER I
@@ -12467,7 +12475,7 @@ room.
 .if t
 <sc>Part IV</sc>: The Journey
 .if-
-.sp 2
+.sp 4
 
 .h3 nobreak id="chapter-4-1"
 CHAPTER I
@@ -15484,7 +15492,7 @@ paid.
 .if t
 <sc>Part V</sc>: Conclusions
 .if-
-.sp 2
+.sp 4
 
 .h3 nobreak id="chapter-5-1"
 CHAPTER I
@@ -17416,16 +17424,18 @@ THE END
 
 // END OF MAIN TEXT
 
-.if t
 .sp 4
-.if-
-.if h
-.sp 2
-.if-
-.pb
 
 // Transcriber’s Notes
 
+.pb
+.ni
+.sp 4
+.if h
+.dv // Needed to keep extra space from being filled with bg-color box
+@placeholder@
+.dv-
+.if-
 .dv class="transcribers-notes nobreak"
 .ce
 <xl>Transcriber’s Notes</xl>
