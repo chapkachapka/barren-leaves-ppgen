@@ -4591,7 +4591,7 @@ them. What were the possible improvements? There
 was a knock at the door. I drew a sheet of blotting paper
 across the bottom of the galley—“Come in”—and went
 on with my interrupted reading of the print. “… Since
-Himalayas were made to breed true to colour, no event
+<anchor=tn-himalayas>Himalayans were made to breed true to colour, no event
 has aroused greater enthusiasm in the fancier’s world
 than the fixation of the new Flemish-Angora type.
 Mr. Spargle’s achievement is indeed a nepoch-making
@@ -7305,6 +7305,7 @@ incident had never occurred.
 
 Mournfully, from somewhere in the distance, came the
 long, suspended cry of the vendor of doughnuts. “Bomboloni.”
+long, suspended cry of the vendor of doughnuts. “<lang=it>Bomboloni.</lang>”
 Two young American <lang=it>marchesas</lang> in purple bathing
 gowns went past, talking together on one note, in indefatigable
 even voices. “… and he has such a lovely
@@ -7642,7 +7643,7 @@ right a marble quarry made a huge bare scar, hundreds
 of feet long. The crest of the hill was fringed with a
 growth of umbrella pines. The straight slender tree
 trunks jetted up thirty feet without a branch; their wide-spreading
-flattered domes of foliage formed a thin continuous
+<target=tn-flattered>flattened domes of foliage formed a thin continuous
 silhouette, between which and the dark mass of the
 hill one could see a band of sky, thinly barred by the bare
 stems. It was as though, to emphasise the outlines of his
@@ -17458,6 +17459,8 @@ Itemized changes from the original text:
 .it #p. 85:tn-mrs#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
 .it #p. 106:tn-called#: changed “called” to “calling” (a being calling himself Homo Sapiens)
 .it #p. 110:tn-gods#: changed “God’s” to “Gog’s” (Gog’s Court)
+.it #p. 110:tn-himalayas#: changed “Himalayas” to “Himalayans” (Since Himalayans were made to breed true to colour)
+.it #p. 177:tn-flattered#: changed “flattered” to “flattened” (flattened domes of foliage)
 .it #p. 181:tn-your#: changed “you” to “your” (I’ve always … admired your work)
 .it #p. 182:tn-intelligentsia#: changed “intelligensia” to “intelligentsia” (the cosmos, the intelligentsia, love….)
 .it #p. 220:tn-its#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
