@@ -7304,7 +7304,6 @@ incident had never occurred.
 .pn +1
 
 Mournfully, from somewhere in the distance, came the
-long, suspended cry of the vendor of doughnuts. “Bomboloni.”
 long, suspended cry of the vendor of doughnuts. “<lang=it>Bomboloni.</lang>”
 Two young American <lang=it>marchesas</lang> in purple bathing
 gowns went past, talking together on one note, in indefatigable
