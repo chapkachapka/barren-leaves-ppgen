@@ -1831,7 +1831,7 @@ chutes,’ then it cannot be said to have gangrened gallantry.
 It has improved it, revivified it, made it interesting.
 Nineteenth-century hypocrisy was a concomitant of nineteenth-century
 literary romanticism: an inevitable reaction,
-like that<anchor=tn-that-against> against the excessive classicism of the
+like that<target=tn-that-against> against the excessive classicism of the
 eighteenth century. Classicism in literature is intolerable
 because there are too many restrictive rules; it is intolerable
 in love because there are too few. They have this in
@@ -4591,7 +4591,7 @@ them. What were the possible improvements? There
 was a knock at the door. I drew a sheet of blotting paper
 across the bottom of the galley—“Come in”—and went
 on with my interrupted reading of the print. “… Since
-<anchor=tn-himalayas>Himalayans were made to breed true to colour, no event
+<target=tn-himalayas>Himalayans were made to breed true to colour, no event
 has aroused greater enthusiasm in the fancier’s world
 than the fixation of the new Flemish-Angora type.
 Mr. Spargle’s achievement is indeed a nepoch-making
@@ -9857,7 +9857,7 @@ Mr. Cardan smiled and shrugged his shoulders. “It’s
 nothing,” he said. “They’re just calling him a robber;
 that’s all.” He listened for a moment more to the shouting.
 “A little question of short weight, it seems.” He
-smiled at Miss Thriplow. <anchor=tn-shouldwe>“Should we go on?”
+smiled at Miss Thriplow. <target=tn-shouldwe>“Should we go on?”
 
 They turned away; the sound of the dispute followed
 them down the street. Miss Thriplow did not know
@@ -14182,7 +14182,7 @@ left Rome; Lord Hovenden had stayed behind with Mr.
 Falx. The long-drawn hooting of the electric horn
 seemed to remind her of something. She looked down
 towards the sea-board plain. A cloud of white dust was
-advancing along the <anchor="tn-marem">Maremman road from the direction
+advancing along the <target=tn-marem>Maremman road from the direction
 of Civita Vecchia. It hung, opaque, over half a mile of
 road, fading slowly to transparency towards the tail. At
 the head, where the dust was thickest, a small black object
@@ -17454,7 +17454,7 @@ retained.
 Itemized changes from the original text:
 .ul
 .it #p. 9:tn-Princes#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
-.it #p. 45:that-against#: removed comma between “that” and “against” (reaction, like that against the)
+.it #p. 45:tn-that-against#: removed comma between “that” and “against” (reaction, like that against the)
 .it #p. 78:tn-than#: changed “that” to “than” (that’s easier said than done)
 .it #p. 85:tn-mrs#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
 .it #p. 106:tn-called#: changed “called” to “calling” (a being calling himself Homo Sapiens)
