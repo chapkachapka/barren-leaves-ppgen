@@ -4432,7 +4432,7 @@ which we inherit from our animal forefathers and share
 with our household pets. The gratifying thing would
 be if we could find in contemporary society evidences of
 peculiarly human virtues—the conscious rational virtues
-that ought to belong by definition to a being called himself
+that ought to belong by definition to a being <target=tn-called>calling himself
 Homo Sapiens. Open-mindedness, for example, absence
 of irrational prejudice, complete tolerance and a
 steady, reasonable pursuit of social goods. But these,
@@ -17456,7 +17456,8 @@ Itemized changes from the original text:
 .it #p. 9:tn-Princes#: changed “Princess” to “Princes” (Princes of Massa and Carrara, Dukes of Vezza)
 .it #p. 78:tn-than#: changed “that” to “than” (that’s easier said than done)
 .it #p. 85:tn-mrs#: changed “Mrs” to “Mrs.” (Mrs. Aldwinkle smiled)
-.it #p. 85:tn-gods#: changed “God’s” to “Gog’s” (Gog’s Court)
+.it #p. 106:tn-called#: changed “called” to “calling” (a being calling himself Homo Sapiens)
+.it #p. 110:tn-gods#: changed “God’s” to “Gog’s” (Gog’s Court)
 .it #p. 181:tn-your#: changed “you” to “your” (I’ve always … admired your work)
 .it #p. 182:tn-intelligentsia#: changed “intelligensia” to “intelligentsia” (the cosmos, the intelligentsia, love….)
 .it #p. 220:tn-its#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
