@@ -14182,7 +14182,7 @@ left Rome; Lord Hovenden had stayed behind with Mr.
 Falx. The long-drawn hooting of the electric horn
 seemed to remind her of something. She looked down
 towards the sea-board plain. A cloud of white dust was
-advancing along the Maremann road from the direction
+advancing along the <anchor="tn-marem">Maremman road from the direction
 of Civita Vecchia. It hung, opaque, over half a mile of
 road, fading slowly to transparency towards the tail. At
 the head, where the dust was thickest, a small black object
@@ -17468,6 +17468,7 @@ Itemized changes from the original text:
 .it #p. 253:tn-Cardan#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
 .it #p. 309:tn-poverty#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
 .it #p. 321:tn-Keate#: changed “Keat” to “Keate” (some new Busby or Keate)
+.it #p. 326:tn-marem#: changed “Maremann” to “Maremman” (the Maremman road)
 .ul-
 
 .sp 2
