@@ -42,7 +42,7 @@
 
 // Class definitions
 
-.de img.publisher-logo {max-width:3em;max-height:3em;}
+.de img.publisher-logo {max-width:2em;max-height:2em;}
 .de .toc td {padding-bottom:1em;}
 
 // Wraps each chapter header, to prevent page breaks in epub
