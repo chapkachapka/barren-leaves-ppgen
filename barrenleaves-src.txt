@@ -9857,7 +9857,7 @@ Mr. Cardan smiled and shrugged his shoulders. “It’s
 nothing,” he said. “They’re just calling him a robber;
 that’s all.” He listened for a moment more to the shouting.
 “A little question of short weight, it seems.” He
-smiled at Miss Thriplow. “Should we go on.”
+smiled at Miss Thriplow. <anchor=tn-shouldwe>“Should we go on?”
 
 They turned away; the sound of the dispute followed
 them down the street. Miss Thriplow did not know
@@ -17464,6 +17464,7 @@ Itemized changes from the original text:
 .it #p. 181:tn-your#: changed “you” to “your” (I’ve always … admired your work)
 .it #p. 182:tn-intelligentsia#: changed “intelligensia” to “intelligentsia” (the cosmos, the intelligentsia, love….)
 .it #p. 220:tn-its#: changed “Its” to “It’s” (It’s ‘amusing’—isn’t that the word?)
+.it #p. 227:tn-shouldwe#: changed period to question mark (Should we go on?)
 .it #p. 253:tn-Cardan#: changed “Carden” to “Cardan” (Next morning Mr. Cardan was down early)
 .it #p. 309:tn-poverty#: changed “povery” to “poverty” (the abysses of unrelieved poverty)
 .it #p. 321:tn-Keate#: changed “Keat” to “Keate” (some new Busby or Keate)
